@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langchain_experimental
+pdf2image
+pytesseract
+faiss-cpu
+unstructured
+pillow
+tqdm
+ipykernel
+PyMuPDF
