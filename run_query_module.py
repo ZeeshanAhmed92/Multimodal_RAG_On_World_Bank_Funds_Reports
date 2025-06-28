@@ -300,8 +300,8 @@ def setup_rag_chain_with_history(session_id: str, embeddings):
      "   - **Donor/Fund**\n"
      "   - **Source Document and Page**\n\n"
      "👉 If you **find stories** related to the user’s question, present them in the structured format above. Make proper headings and make them bold, dont put ## instead of making bold\n"
-     "👉 If **no full stories** are available, **fallback to answering the user's question** based on the relevant context from the document.\n\n"
-     "Be clear and informative. Never make up facts.\n\n"
+     "👉 If **no full stories** are available, **fallback to answering the user's question** based on the relevant context from the document dont give random information.\n\n"
+     "Be clear and informative. Never retrieve irrelevant information.\n\n"
      "Context:\n{context}"),
     MessagesPlaceholder(variable_name="chat_history"),
     ("human", "{input}")
@@ -345,13 +345,5 @@ def load_session_messages(session_id, chat_history_dir="chat_history"):
         return []
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
-
-# %%
-session_id = f"session_{uuid.uuid4().hex[:8]}"
-q = "give me two examples of how the MDTF supported private sector job creation in 2020" 
-
-print(f"\n {q}")
-answer = run_query(session_id, q)
-print(f"🧠 {answer}")
 
 
