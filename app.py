@@ -166,7 +166,11 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("<label style='color:#000840; font-weight:bold;'>Your question:</label>", unsafe_allow_html=True)
-user_question = st.text_input(label="", placeholder="Type your question here...")
+user_question = st.text_input(
+    label="",
+    placeholder="Type your question here...",
+    value=st.session_state.get("last_question", "")
+)
 
 # Ask Button
 st.markdown("""
