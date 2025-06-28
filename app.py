@@ -3,6 +3,7 @@ import uuid
 import base64
 import streamlit as st
 import json
+from langchain.embeddings import AzureOpenAIEmbeddings
 from run_query_module import (
     run_query, update_faiss_index, extract_text_with_ocr, 
     file_hash, load_existing_hashes, save_hashes, 
@@ -14,6 +15,21 @@ PDF_DIR = "./source_docs"
 CHAT_HISTORY_DIR = "chat_history"
 os.makedirs(PDF_DIR, exist_ok=True)
 os.makedirs(CHAT_HISTORY_DIR, exist_ok=True)
+
+# Azure OpenAI config
+AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
+AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
+AZURE_OPENAI_API_VERSION = os.getenv("AZURE_OPENAI_API_VERSION")
+EMBEDDING_DEPLOYMENT = os.getenv("AZURE_OPENAI_EMBED_DEPLOYMENT")  # e.g. text-embedding-3-small
+LLM_DEPLOYMENT = os.getenv("AZURE_OPENAI_LLM_DEPLOYMENT")          # e.g. gpt-4-mini
+
+embeddings = AzureOpenAIEmbeddings(
+    azure_deployment=EMBEDDING_DEPLOYMENT,
+    openai_api_key=AZURE_OPENAI_API_KEY,
+    openai_api_version=AZURE_OPENAI_API_VERSION,
+    azure_endpoint=AZURE_OPENAI_ENDPOINT,
+    chunk_size=1000,  # ✅ 
+)
 
 st.set_page_config(page_title="UTF Story Finder", page_icon="📘", layout="wide")
 # -------------------- Set Background Image --------------------
@@ -106,7 +122,7 @@ if uploaded_file:
 
         with st.spinner("🔍 Processing with OCR..."):
             extract_text_with_ocr(file_path)
-            update_faiss_index(embeddings=None)
+            update_faiss_index(embeddings)
 
         st.markdown(
             "<div style='background-color:#e6f2ff; color:#000840; padding:10px; border-radius:8px;'>"

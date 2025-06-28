@@ -162,9 +162,11 @@ def enrich_metadata(filename: str) -> dict:
     }
 
 def update_faiss_index(embeddings):
+    if embeddings is None:
+        raise ValueError("❌ Embeddings must be provided to update the FAISS index.")
+
     print("🔄 Checking for new documents...")
-    
-    # Load known hashes
+
     existing_hashes = load_existing_hashes()
     new_hashes = set()
     new_documents = []
@@ -186,34 +188,48 @@ def update_faiss_index(embeddings):
         new_documents.append(Document(page_content=text, metadata=metadata))
         new_hashes.add(file_digest)
 
-    # No new docs? Load and return existing vector store
     if not new_documents:
         print("✅ No new documents found.")
-        return FAISS.load_local(FAISS_INDEX_PATH, embeddings, allow_dangerous_deserialization=True)
+        try:
+            return FAISS.load_local(
+                FAISS_INDEX_PATH, embeddings, allow_dangerous_deserialization=True
+            )
+        except Exception as e:
+            print(f"⚠️ Failed to load existing FAISS index: {e}")
+            return None
 
-    print("✂️ Splitting documents...")
+    print("✂️ Splitting documents into chunks...")
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=800,
+        chunk_size=1000,
         chunk_overlap=100,
         separators=["\n\n", "\n", ".", "!", "?", ",", " ", ""]
     )
     new_chunks = splitter.split_documents(new_documents)
 
-    print("📦 Updating FAISS vector store...")
-    if os.path.exists(FAISS_INDEX_PATH + ".faiss"):
-        vectorstore = FAISS.load_local(FAISS_INDEX_PATH, embeddings, allow_dangerous_deserialization=True)
-        vectorstore.add_documents(new_chunks)
-    else:
-        vectorstore = FAISS.from_documents(new_chunks, embeddings)
+    print(f"📦 Adding {len(new_chunks)} chunks to FAISS vector store...")
 
-    vectorstore.save_local(FAISS_INDEX_PATH)
+    try:
+        if os.path.exists(FAISS_INDEX_PATH + ".faiss"):
+            vectorstore = FAISS.load_local(
+                FAISS_INDEX_PATH, embeddings, allow_dangerous_deserialization=True
+            )
+            vectorstore.add_documents(new_chunks)
+        else:
+            vectorstore = FAISS.from_documents(new_chunks, embeddings)
 
-    # Save combined hashes
+        vectorstore.save_local(FAISS_INDEX_PATH)
+        print("💾 FAISS index saved.")
+
+    except Exception as e:
+        print(f"❌ Error during FAISS update: {e}")
+        return None
+
     updated_hashes = existing_hashes.union(new_hashes)
     save_hashes(updated_hashes)
     print(f"✅ Stored {len(updated_hashes)} file hashes in {HASH_STORE_PATH}")
 
     return vectorstore
+
 
 
 # %%
