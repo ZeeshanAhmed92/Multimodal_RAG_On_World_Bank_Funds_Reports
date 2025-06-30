@@ -32,12 +32,19 @@ embeddings = AzureOpenAIEmbeddings(
     azure_endpoint=AZURE_OPENAI_ENDPOINT,
     chunk_size=1000,
 )
+st.markdown("""
+    <h1 style='text-align: center; color: #000840; font-weight: bold; margin-top: 10px;'>
+        📘 Trust Funds Annual Report
+    </h1>
+""", unsafe_allow_html=True)
 
-st.set_page_config(page_title="UTF Story Finder", page_icon="📘", layout="wide")
-
-import os
-import base64
-import streamlit as st
+st.markdown("""
+    <div style='background-color:#e6f2ff; color:#000840; padding: 15px; border-radius: 10px; border: 2px solid #000840; margin-bottom: 20px; font-size: 16px;'>
+        This application allows you to upload and analyze <b>United Nations Trust Funds (UTF)</b> Annual Reports. 
+        Using AI-powered OCR and semantic search, you can ask questions directly from the content and retrieve 
+        insights instantly. Previously processed files are stored for reuse, and each session keeps track of your interactions.
+    </div>
+""", unsafe_allow_html=True)
 
 def set_background(image_path):
     if not os.path.exists(image_path):
@@ -147,8 +154,7 @@ session_ids = get_session_ids()
 selected_session = st.sidebar.selectbox("Select Previous Session", session_ids or ["No sessions yet"])
 st.sidebar.markdown("---")
 
-st.markdown("<h3 style='color:#000840;'>📤 Upload UTF Annual Report PDF</h3>", unsafe_allow_html=True)
-st.markdown("<label style='color:#000840; font-weight:bold;'>Upload UTF Annual Report</label>", unsafe_allow_html=True)
+st.markdown("<h4 style='color:#000840; font-weight: bold;'>📤 Upload UTF Annual Report PDF</h4>", unsafe_allow_html=True)
 uploaded_file = st.file_uploader("", type=["pdf"])
 
 if uploaded_file:
