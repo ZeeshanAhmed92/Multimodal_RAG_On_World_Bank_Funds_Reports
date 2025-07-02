@@ -10,3 +10,4 @@ pillow
 tqdm
 ipykernel
 PyMuPDF
+openai
