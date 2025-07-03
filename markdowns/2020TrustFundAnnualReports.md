@@ -9,6 +9,28 @@ Public Disclosure Authorized
 Public Disclosure Authorized
 
 
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image features a simple and clean layout consisting of a large photograph occupying the entire background. The photo captures a close-up scene inside a greenhouse or drying tunnel where various agricultural products—specifically corn cobs and cocoa beans—are being dried. A person's hand is shown using a wooden rake or tool to spread or turn the corn and beans evenly.
+
+The greenhouse structure consists of arched, white translucent polyethylene plastic supported by a frame, allowing natural light to filter inside. The rows of corn cobs are arranged in the background, and the cocoa beans cover the foreground. The hand and tool appear at the right edge of the image.
+
+No text is visible within this image itself, as it focuses solely on the visual representation of the drying process, likely related to agricultural development or food processing in the report. The image provides a strong visual connection to topics around farming practices, crop handling, or rural development in the annual development report.
+```
+![Image 1](images/2020TrustFundAnnualReports_p1_img1.jpeg)
+
+**Image 2 OCR + Description:**
+```
+**Image Description:**
+The image shows a woman seated at a table, engaged in beadwork. She is dressed in a red long-sleeved top and wearing a black headband. The woman is holding a wire frame shaped like a star, working on it with beads. On the table in front of her, there are several completed beaded items, including bracelets and necklaces, showcasing intricate patterns with various colors such as yellow, white, black, and red.
+
+In the background, there are windows with bright light coming through, and some indistinct objects and materials suggesting a workshop or craft area. There is text partially visible at the top of the image, painted on the wall in black capital letters, but it is incomplete and not fully readable. The visible portion says: "E KAMPELEY SHA."
+
+The image appears to highlight traditional handicraft work, likely to emphasize cultural heritage and artisanship in the context of the annual development report.
+```
+![Image 2](images/2020TrustFundAnnualReports_p1_img2.jpeg)
+
 ## Page 2
 
 
@@ -161,13 +183,45 @@ for Economic Cooperation
 and Development
 
 
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image appears to be a logo or emblem featuring a blue shield with a white lion standing on its hind legs. This lion is holding a sword in one paw and a bundle of arrows in the other. Below the shield, there is text. The text is in two lines:
+
+- The first line reads: "VORISHLAN MINISTRY"
+- The second line reads: "OF FOREIGN AFFAIRS"
+
+The text is in uppercase letters and is centered beneath the shield. The emblem likely represents a governmental or official agency related to foreign affairs. The layout is formal and official, suitable for use in an annual development report.
+```
+![Image 1](images/2020TrustFundAnnualReports_p7_img1.png)
+
 ## Page 8
 
+
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image shows five women inside a simple room with unfinished brick walls and a wooden-framed window covered by a black plastic sheet. They are seated in a semi-circle, except one woman who is standing and holding a woven craft item. Another woman, seated, also holds a similar item. The floor is bare, and the women are dressed in casual, modest clothing with varied patterns and colors. The atmosphere suggests a group discussion or workshop, possibly focusing on traditional crafts.
+
+There is no text visible within the image. The layout suggests an informal, community-oriented setting, which aligns with themes typically found in annual development reports related to community development, women empowerment, or skill-building initiatives.
+```
+![Image 1](images/2020TrustFundAnnualReports_p8_img1.jpeg)
 
 ## Page 9
 EXECUTIVE 
 SUMMARY
 
+
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image is of several women sitting in a dimly lit room. The women are seated on plastic chairs arranged in a semi-circle, seemingly engaged in a discussion or meeting. The walls of the room are made from bricks or blocks with no plaster, and there is a window without glass, through which greenery is visible outside.
+
+The lighting is uneven, with shadows making the group on the right side of the image less visible. The women are dressed in casual, traditional attire and appear to be in a rural or developing setting.
+
+There is no visible text in the image. The scene likely represents a community meeting or group discussion relevant to development or social matters, fitting the context of an annual development report.
+```
+![Image 1](images/2020TrustFundAnnualReports_p9_img1.jpeg)
 
 ## Page 10
 
@@ -389,6 +443,26 @@ J O B S  U M B R E L L A  M U L T I D O N O R  T R U S T  F U N D  A N N U A L  
 ## Page 16
 
 
+**Image 1 OCR + Description:**
+```
+Fe
+
+**Image Description:**
+The image depicts a classroom scene with children seated in a row along a wooden bench and desks. The students are wearing red shirts with green collars, likely a school uniform. They appear to be engaged in reading or studying from books and notebooks placed in front of them.
+
+The classroom walls are made of dark, weathered wooden panels. Various pieces of educational material are displayed on the walls, including:
+
+- Colored papers with drawings and text hanging on the upper left side.
+- A white sheet featuring the alphabet letters "A" to "Z" in uppercase on the far right wall.
+  
+The lighting in the room is dim, coming from an open window or doorway to the right side. The classroom environment appears modest, with basic furniture and rustic construction.
+
+There is no visible textual content in the image besides the alphabet chart on the wall and some partially visible text on hanging sheets, which is not fully legible.
+
+This image can be used to highlight educational initiatives, learning environments, or community development efforts in rural or underserviced areas in an annual development report.
+```
+![Image 1](images/2020TrustFundAnnualReports_p16_img1.jpeg)
+
 ## Page 17
 THE JOBS 
 MULTI-DONOR 
@@ -396,6 +470,27 @@ TRUST FUND
 (MDTF) PHASE I
 1
 
+
+**Image 1 OCR + Description:**
+```
+—,]
+
+**Image Description:**
+The image depicts a classroom setting with a focus on a female teacher and several students. 
+
+Layout and Key Elements:
+- On the left side of the image, the teacher is standing, facing the students, and appears to be explaining something. She is wearing a colorful saree primarily in shades of blue, pink, and lavender, and holds some papers or a notebook in her left hand.
+- The classroom has wooden desks and benches where the students are seated. The students are wearing uniforms consisting of orange shirts and green pants.
+- The students are engaged, with some looking at the teacher and others focused on their notebooks or textbooks, holding pencils.
+- The room has dim lighting, with the background featuring a corrugated metal wall, a clock showing the time as approximately 10:55, and charts or papers on the walls that may be educational materials.
+- The classroom appears modest and utilitarian, suggesting a rural or under-resourced educational environment.
+
+Text:
+- There is no prominently visible or readable text in the image itself other than the numbers on the clock and some writing that is part of the educational charts on the walls, which are not distinctly legible.
+
+Overall, the image captures an active learning environment emphasizing the role of the teacher and attentive students, suitable for illustrating themes of education and development in an annual report.
+```
+![Image 1](images/2020TrustFundAnnualReports_p17_img1.jpeg)
 
 ## Page 18
 1
@@ -835,6 +930,15 @@ T H E  J O B S  M U L T I - D O N O R  T R U S T  F U N D  ( M D T F )  P H A S 
 ## Page 28
 
 
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image shows a street market scene with three women seated on the ground behind piles of fresh leafy green vegetables, likely for sale. The women are dressed in warm clothing, including jackets and head coverings, and two of them are wearing face masks, indicating caution, possibly due to health concerns. Behind them, there's a green wooden structure, possibly a market stall or small shop, which looks weathered with some peeling paint. To the left, there are wooden crates stacked on top of each other. The ground is earthy, suggesting an open-air market setting. The overall mood is calm with subdued lighting, possibly during the early morning or late afternoon.
+
+There is no visible text in the image. The focus is on the vendors and their fresh produce, highlighting themes such as local trade, agriculture, and community livelihoods, which could relate to development topics in an annual report.
+```
+![Image 1](images/2020TrustFundAnnualReports_p28_img1.jpeg)
+
 ## Page 29
 THE JOBS 
 MULTI-DONOR 
@@ -842,6 +946,15 @@ TRUST FUND
 (MDTF) PHASE II
 2
 
+
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image features a group of people, mostly women, seated and squatting around piles of green leafy vegetables, possibly in a market setting. The individuals are dressed in casual clothing, some wearing headscarves and face masks. The background shows a few buildings or stalls made of metal sheets and wood, with a fence and some trees visible on the left side.
+
+There is no visible text or overlay on the image itself. The focus is on the market scene, suggesting themes of local trade, community, or agriculture within an annual development report context. The image has a natural and candid atmosphere, likely used to highlight grassroots or rural economic activities.
+```
+![Image 1](images/2020TrustFundAnnualReports_p29_img1.jpeg)
 
 ## Page 30
 2.
@@ -1244,12 +1357,34 @@ T H E  J O B S  M D T F  P H A S E  I I
 ## Page 38
 
 
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image shows a man wearing a light denim shirt, a yellow reflective safety vest with two gray horizontal reflective stripes, glasses, and a face mask pulled down slightly below his nose. He is standing on the side of a road, facing a person on a motorcycle. The man appears to be gesturing or signaling with both hands held up, palms facing outward.
+
+The person on the motorcycle is wearing a helmet and casual clothing. There are several vehicles on the road, including a white car, a red van, and a bus further down the road. In the background, there are billboards with some visible text. One billboard reads "LA GASTRONOMIE PIZZA" and shows a price "247000F" along with an image of a woman holding food. Another sign says "GASY PUB."
+
+The setting appears to be a busy urban street with some greenery along the sidewalk. The image conveys a scene of traffic management or street interaction, possibly related to safety or urban development efforts.
+
+There is no other visible text relevant to the report on the man’s vest or in the immediate foreground. The overall atmosphere suggests involvement in a community or city development project.
+```
+![Image 1](images/2020TrustFundAnnualReports_p38_img1.jpeg)
+
 ## Page 39
 HIGHLIGHTS OF 
 ACTIVITIES AND 
 RESULTS
 3
 
+
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image depicts two people riding a motorcycle on a street in an urban area. Both riders are wearing helmets; the person at the back has shoulder-length hair visible. The motorcycle carries a large black storage box at the rear with a red taillight. The photo appears to be taken in daylight with some buildings, a parked car, and a pedestrian in the background.
+
+Overall, the image is split into two halves vertically; the left side is brighter and clearer, while the right side is darker and more shadowed. There is no visible text or graphical layout in this image that relates directly to an annual development report. The photo seems to illustrate transportation, street life, or urban mobility but does not contain embedded textual content or a formal layout of a report.
+```
+![Image 1](images/2020TrustFundAnnualReports_p39_img1.jpeg)
 
 ## Page 40
 3. 
@@ -2149,12 +2284,37 @@ H I G H L I G H T S  O F  A C T I V I T I E S  A N D  R E S U L T S
 ## Page 56
 
 
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image depicts an indoor setting that appears to be a rustic or rural poultry farm. Two men are prominently featured in the image:
+
+- The man on the left is dressed in a black jacket with white stripes on the sleeves, blue jeans, and colorful sneakers. He is wearing a blue face mask and is looking down at the ground or the chickens.
+- The man on the right is wearing a white polo shirt, brown pants, a brown belt, a gray baseball cap, and a light blue face mask. He is holding a mobile phone to his ear and looking in the direction of the other man.
+
+Several chickens, mostly brown with red combs, are gathered around the men's feet, indicating this might be a small-scale poultry operation.
+
+The background shows a corrugated metal wall, wooden beams, and some makeshift elements like a piece of cloth hanging and a wheelbarrow, which contribute to the informal, farm-like environment.
+
+There is no visible text in the image. The composition and setting suggest a moment of inspection, consultation, or discussion related to poultry farming, which aligns with the context of an annual development report.
+```
+![Image 1](images/2020TrustFundAnnualReports_p56_img1.jpeg)
+
 ## Page 57
 FINANCIAL 
 HIGHLIGHTS AND 
 DISBURSEMENTS
 4
 
+
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image shows the interior of a rustic chicken coop or poultry shelter constructed mainly from corrugated metal sheets and wooden beams. The structure appears simple and utilitarian. Several chickens, mostly brown and one black, are seen standing or walking on the ground in the foreground. Outside light softly illuminates part of the coop interior, creating a dim, natural atmosphere. A wooden ladder or rack is visible inside the shed against the corrugated metal wall.
+
+There is no visible text within this image. The image's layout and elements suggest a focus on rural or small-scale poultry farming, which may be relevant to an annual development report covering agriculture, rural development, or animal husbandry themes.
+```
+![Image 1](images/2020TrustFundAnnualReports_p57_img1.jpeg)
 
 ## Page 58
 4.
@@ -2492,9 +2652,23 @@ J O B S  U M B R E L L A  M U L T I D O N O R  T R U S T  F U N D  A N N U A L  
 ## Page 64
 
 
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image depicts a market scene with a focus on a man wearing a blue hoodie and a blue face mask. He is standing at a produce stall, interacting with a smartphone or tablet. The market stall displays a variety of fruits and vegetables, including yellow and green fruits in the foreground, and red onions in mesh bags. The background is blurred but shows more market goods and hanging items, suggesting a busy, colorful market environment. There is no visible text in the image. The layout centers on the man engaging with technology amidst a traditional market setting, likely emphasizing themes of digital integration or modernization in trade within the annual development report.
+```
+![Image 1](images/2020TrustFundAnnualReports_p64_img1.jpeg)
+
 ## Page 65
 ANNEXES
 
+
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image features a market scene with various fruits and vegetables in the foreground and background. A person wearing a black cap, dark clothing, and a face covering is centrally positioned, holding a blue plastic basket containing some produce. The lighting is low and warm, giving an intimate and somewhat shadowy ambiance to the market setting. There is no visible text in the image. The focus is on the individual and the market produce, highlighting a typical day in a fruit and vegetable market environment.
+```
+![Image 1](images/2020TrustFundAnnualReports_p65_img1.jpeg)
 
 ## Page 66
 J O B S  U M B R E L L A  M U L T I D O N O R  T R U S T  F U N D  A N N U A L  R E P O R T  2 0 2 0 
@@ -4533,3 +4707,20 @@ Federal Ministry
 for Economic Cooperation
 and Development
 
+
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image is a logo for the "DEPARTMENT OF FOREIGN AFFAIRS" of the "REPUBLIC OF THE PHILIPPINES." 
+
+The layout consists of:
+- A blue square background.
+- On the blue background, there is a white heraldic lion (standing on its hind legs, facing left).
+- Below the blue square, there is text in black capital letters arranged in three lines:
+  1. "REPUBLIC OF THE PHILIPPINES"
+  2. "DEPARTMENT OF"
+  3. "FOREIGN AFFAIRS"
+
+The design is simple and formal, conveying the official nature of the department. This is typically used as an official seal or logo for the department in reports and documents.
+```
+![Image 1](images/2020TrustFundAnnualReports_p116_img1.png)

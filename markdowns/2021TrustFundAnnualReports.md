@@ -12,6 +12,20 @@ Public Disclosure Authorized
 Public Disclosure Authorized
 
 
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image shows a simple illustration of an umbrella. The umbrella has a segmented canopy with multiple panels colored in shades of green and yellow. The handle of the umbrella is curved and depicted in a green outline. There is no text present in the image. The design appears stylized and minimalistic.
+```
+![Image 1](images/2021TrustFundAnnualReports_p1_img1.png)
+
+**Image 2 OCR + Description:**
+```
+**Image Description:**
+The image depicts a colorful umbrella illustration. The umbrella's canopy is divided into segments with various colors including green, yellow, and purple. The handle of the umbrella is green and curved. There is no text in the image. The illustration style is simple and vibrant, likely used as a decorative or thematic element in the annual development report.
+```
+![Image 2](images/2021TrustFundAnnualReports_p1_img2.png)
+
 ## Page 2
 TABLE OF CONTENTS
 Message from the Vice President	
@@ -112,6 +126,26 @@ Introduction
 i
 World Bank
 
+
+**Image 1 OCR + Description:**
+```
+**Image Description:**
+The image is a close-up photograph of a group of children, all wearing face masks. The children appear to be in a classroom or a similar indoor setting. The focus is on a girl in the foreground who has a blue face mask, colorful clothing with a predominantly blue pattern, and a dark backpack on her shoulders. She is looking directly at the camera.
+
+Behind her, several other children are visible. Some are wearing yellow and green garments, and most of them are also wearing face masks of various colors. The background is blurred, emphasizing the children in the foreground.
+
+There is no visible text within the image itself. The image likely accompanies a section of an annual development report, possibly related to education, public health, or community support programs in the context of the COVID-19 pandemic or similar health measures.
+```
+![Image 1](images/2021TrustFundAnnualReports_p3_img1.png)
+
+**Image 2 OCR + Description:**
+```
+**Image Description:**
+The image features a professionally taken portrait of a middle-aged man with short black hair, glasses, and a neatly trimmed beard. He is wearing a dark pinstriped suit, a white shirt, and a blue tie with polka dots. The background is softly blurred, highlighting the subject, and has warm and neutral tones.
+
+There is no visible text or additional elements in the image. The man's expression is calm and serious, fitting for inclusion in an annual development report, likely to accompany a message from a key individual such as a CEO or director. The layout is straightforward and centered, focusing entirely on the subject.
+```
+![Image 2](images/2021TrustFundAnnualReports_p3_img2.png)
 
 ## Page 4
 WBG Trust Fund Annual Report 2021
@@ -321,7 +355,7 @@ global inequalities, lagging progress in economic
 and social development, multiple prolonged violent 
 conflicts, and increased forced displacement have 
 all been exacerbated by the pandemic. Women and 
-girls have borne the brunt of impacts at work and  
+girls have borne the brunt of impacts at work and 
 in the home.
 The World Bank Group has mounted a broad 
 and decisive response to the crisis—the largest 
@@ -370,7 +404,7 @@ reforms, key results and impacts from the field,
 and financial trends and analytics. Highlighted 
 activities illustrate the strong commitment and 
 support of contributing development partners 
-in addressing the development objectives of  
+in addressing the development objectives of 
 client countries. 
 TRUST-FUNDED ACTIVITIES  
 ADD VALUE
@@ -394,15 +428,18 @@ FIGURE 0.1
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image depicts a crowded indoor space, possibly a metro or train station, with people standing in a line. The ceiling is comprised of rectangular light panels, and the walls are painted yellow. Most of the individuals are wearing morning or casual winter clothing, like jackets and sweaters. 
+The image depicts people standing in line inside a metro station, likely waiting to enter or board a train. The layout shows a queue of individuals positioned on floor markers that encourage social distancing. These markers are circular, with blue borders and white backgrounds, containing text that reads "Mantén un metro de distancia" (which translates to "Keep one meter distance").
 
-Key elements:
-- People are standing on circular floor markers designed for social distancing. Each marker contains text that reads "Mantén un metro de distancia," which translates from Spanish as "Keep a meter of distance."
-- A young girl in the foreground is wearing a pink face mask and a clear face shield, paired with a light denim jacket and yellow pants with black text that reads "LADY BODY" on the side.
-- The space appears to have glass barriers or windows on one side, and signage above these indicates various station or area names, including "Estación Central."
-- The lighting has a warm yellowish tone due to the ceiling lights.
+Key elements in the image:
+- Several people facing away from the camera or to the side, spaced apart on designated floor markers.
+- A young girl in the foreground wearing yellow pants and a light denim jacket, along with pink face mask and a clear face shield.
+- Another person directly ahead, wearing a black jacket and jeans, standing on a social distancing marker.
+- A yellow wall with a row of windows or doors (likely entrances to the metro trains).
+- Overhead lights with a textured ceiling above.
+- Blue signs on the windows or doors with the text “Estación Central.”
+- People wearing a variety of jackets and backpacks.
 
-This image emphasizes social distancing in a public transit environment, likely part of the annual development report to showcase measures related to public health and safety during transit use.
+Overall, the image visually conveys the theme of safety measures and social distancing in public transportation systems, which is likely relevant to an annual development report focused on urban infrastructure or public health compliance.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p5_img1.png)
 
@@ -560,9 +597,9 @@ GEF
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image is a landscape photograph dominated by a large river flowing through a dense forest. The river splits and winds around multiple lush green islands and peninsulas covered in thick trees. The water appears mostly clear with some areas showing sandy or muddy banks and small sandbars. The terrain is flat and extends to the horizon under a partly cloudy sky, suggesting a tropical or subtropical environment. 
+The image shows a wide aerial view of a river landscape with multiple waterways and densely forested islands and land masses. The water appears to be flowing through the green land, creating channels and small sandbanks. The greenery is lush and dense, indicating a possibly tropical or subtropical forest area.
 
-There is no visible text or graphic element on the image itself; it serves as a natural scenic visual likely representing environmental or geographical focus, fitting well in an annual development report context to highlight nature, water resources, or conservation themes.
+There is no text or written content contained within the image itself. It is a clear, natural scene likely used to emphasize environmental aspects or natural resources in the context of an annual development report. The layout is focused entirely on the natural river and forest environment without any overlays, captions, or additional graphical elements.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p6_img1.png)
 
@@ -675,29 +712,34 @@ Orlando Barría / World Bank
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image depicts a busy outdoor market scene near a coastal area. The key elements include:
+The image shows a vibrant and busy seaside marketplace scene, likely in a coastal community dependent on fishing.
 
-- In the foreground, two women are prominently seen: one wearing a vibrant blue garment carrying a child on her back, and another woman facing her, wearing a red headscarf and a teal top. Between them, there is a basket filled with baked goods or fried snacks.
-- Surrounding them are several other people, mostly men, some pushing wheelbarrows filled with goods.
-- In the background, there is a large crowd along the shoreline where fishing boats are floating on the water, suggesting a fishing or coastal trading community.
-- The lighting suggests a late afternoon or early evening setting, given the warm tones and the angle of sunlight reflecting off the water.
+Layout and Key Elements:
+- The foreground features two women seated near baskets filled with fried food items; one woman is dressed in a bright blue garment, carrying a baby on her back, while the other woman wears a turquoise top and a striking red headscarf.
+- Behind them are corrugated metal sheets and a pile of nuts or small brown items, indicating a rustic market setup.
+- Numerous people fill the mid-ground, walking and engaging in market activities; many are casually dressed, and some are pushing wheelbarrows laden with goods.
+- The background reveals the ocean with multiple small fishing boats anchored or sailing, emphasizing the community's fishing activity.
+- The lighting suggests late afternoon or early evening, with the sun low in the sky casting a warm glow and reflections on the water.
 
-There is no visible text in this image. The scene captures a vibrant, bustling marketplace atmosphere indicative of local commerce and daily life, relevant to an annual development report highlighting community activity, trade, or economic activity by the sea.
+Text:
+- The image itself contains no visible text.
+
+Overall, the photograph captures the dynamic daily life of a fishing village market, showcasing the community's connection to the sea and commerce, which is a likely focus for an annual development report section discussing local economies and livelihoods.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p7_img1.png)
 
 **Image 2 OCR + Description:**
 ```
 **Image Description:**
-The image shows a waiting area with multiple green plastic chairs arranged in a socially distanced manner on a red tiled floor. Key elements include:
+The image shows a large indoor area with a red floor where multiple green plastic chairs are arranged in a spaced-out pattern, likely to maintain social distancing. Several people are seated in the chairs, and all individuals are wearing face masks, indicating a health safety protocol, possibly due to the COVID-19 pandemic.
 
-- Seven individuals seated in the chairs, all wearing face masks.
-- The people are spaced out, ensuring distancing protocols.
-- Some individuals appear engaged with their phones or sitting quietly.
-- There are small trash bins placed among the chairs.
-- The environment appears to be indoors, possibly a clinic, vaccination center, or similar public health setting.
+Key elements in the image include:
+- People seated at a distance from each other, while some are engaged with mobile devices or sitting quietly.
+- Green plastic chairs that are spread apart to ensure separation.
+- Trash bins placed between chairs.
+- The floor and seating arrangement suggest an organized waiting or vaccination area.
 
-There is no visible text in the image. The overall layout suggests an organized effort for crowd management or health safety, relevant for highlighting social distancing and public health measures in an annual development report.
+There is no visible text in the image beyond a small label on one of the trash bins, which is not fully readable. The overall layout and context suggest this could be part of a health or social gathering initiative, such as a vaccination campaign or community health program, relevant to development or public health progress reported in an annual development report.
 ```
 ![Image 2](images/2021TrustFundAnnualReports_p7_img2.png)
 
@@ -765,11 +807,14 @@ Victor Idrogo / World Bank
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image shows a man holding a young girl in his arms, both wearing protective face masks and face shields. The man is wearing a yellow hard hat, a blue and gray vest over a black shirt, and tan pants. He also has a black backpack. The young girl is dressed in a pink quilted jacket, dark pants, tan boots, a pink beanie, and a printed t-shirt.
+The image features a man and a young girl standing outdoors, possibly on a street or parking area, with blurred vehicles and a blue wall in the background. Both individuals are wearing protective face gear related to COVID-19 safety measures. 
 
-They are standing outdoors, possibly in a parking area or street, with vehicles and a blue wall in the background. The atmosphere looks casual and protective measures against health risks are evident in their attire.
+Key elements:
+- The man is wearing a yellow hard hat, a clear plastic face shield, and a white mask underneath. He has on a blue and gray quilted vest over a black shirt and beige pants. A black backpack is visible on his back.
+- The girl is wearing a pink hoodie with a textured pattern, a pink beanie, a pink face mask with a small design, and a light-colored shirt with a cartoon character on it beneath the hoodie. She is also wearing dark leggings and brown boots.
+- The man is holding the girl, with his arms around her, and the girl has one arm around the man’s shoulder.
 
-There is no visible text in the image. The composition suggests themes of care, protection, and possibly work-life balance or health safety in a development context.
+There is no text visible in the image. The composition exudes a sense of care, protection, and safety, fitting for inclusion in an annual development report focusing perhaps on community or worker welfare, safety practices, or family support initiatives.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p8_img1.png)
 
@@ -898,7 +943,7 @@ on PPPs
 ID4D launching a 
 national digital ID system
 WEST AFRICA
-IFC trust funds strengthening  
+IFC trust funds strengthening 
 the tourism industry
 NEPAL
 SPF supporting victims of 
@@ -1007,16 +1052,16 @@ Chapter 1. Optimizing External Funding and Partnerships
 **Image 2 OCR + Description:**
 ```
 **Image Description:**
-The image has a circular layout with a black background, on which two thin concentric lines—one blue and one black—are drawn, partially framing the photo inside the circle. The photo shows three men engaging in a friendly gesture, specifically a fist bump. 
+The image features three men engaging in a friendly elbow bump, likely as a greeting or acknowledgment of each other. The man on the right is wearing a face mask and a beige vest with a patch of the European Union flag, indicating possible EU-related work or support. The man on the left is wearing a white cap and glasses and has a vest with vertical black and white stripes. The man in the middle is wearing a pink garment and has a blue face mask hanging under his chin.
 
-Key elements within the photo:
-- The man on the left is wearing a white cap with a logo, glasses, and a patterned vest over a white shirt.
-- The man in the middle is wearing a pink shirt and a blue mask that is pulled down to his chin.
-- The man on the right is wearing a beige vest with a patch of the European Union flag, a patterned shirt underneath, and a black face mask.
+The image is framed within a circular design, with overlapping blue and black arc lines on a black background, giving it a modern and professional look suitable for an annual development report. There is no visible text on this part of the image itself, but the design suggests it is part of a larger, well-structured report. The background shows blurred people and outdoor elements, indicating the meeting might be taking place outside.
 
-The background shows a somewhat blurred outdoor setting with several people. There is no visible text within this image portion itself. 
-
-The overall design and content suggest it is part of an annual development report, likely depicting a community or development-related interaction supported or funded by the European Union.
+Key elements:
+- Three men elbow bumping
+- One man with an EU insignia on his vest
+- Circular framing with blue and black arcs
+- Outdoor setting with blurred background figures
+- No visible text in this image section
 ```
 ![Image 2](images/2021TrustFundAnnualReports_p10_img2.png)
 
@@ -1093,7 +1138,7 @@ direct funding through regular Bank instruments
 like IBRD loans or IDA credits and grants. They also 
 complement IBRD and IDA in providing immediate 
 assistance in response to emergencies, natural 
-disasters, and countries dealing with an influx  
+disasters, and countries dealing with an influx 
 of refugees.
 Trust-funded RE activities can either be stand-
 alone grants or provide co-financing to projects 
@@ -1129,13 +1174,15 @@ BOX 1.1
 a
 
 **Image Description:**
-The image features two women standing side by side in front of stacked shipping containers, which serve as the background, indicating an industrial or logistics setting.
+The image features a vertical layout with two female workers standing outdoors in front of stacked shipping containers. The containers are primarily red, with others visible in the background in multiple colors such as white and blue.
 
-The woman on the left is wearing a green safety helmet and a high-visibility safety jacket with neon yellow and reflective strips over a shirt. She holds a black clipboard and has an identification card hanging from a lanyard around her neck. The jacket has a logo that reads "SAGT" accompanied by a design element.
+The woman on the left is wearing a green safety helmet and a high-visibility jacket with fluorescent yellow and reflective gray stripes over a collared shirt. She holds a black clipboard and has an identification badge hanging from a blue lanyard around her neck. The jacket features a logo with the text "SAGT" and some smaller text beneath it.
 
-The woman on the right is dressed in a white coverall with a white safety helmet and also wears a lanyard with an ID card. Neither woman is smiling broadly, but both appear professional and attentive.
+The woman on the right is dressed in a white protective jumpsuit and a white safety helmet. She also has an identification badge on a blue lanyard.
 
-There is no visible text present in the image besides the logo on the jacket and the ID cards. The overall layout is vertical, with the women positioned centrally and occupying most of the frame, while the shipping containers provide context to the environment. This image would be fitting for an annual development report, emphasizing themes of industrial work, safety, and employee professionalism.
+Both women are looking toward the camera. The scene suggests an industrial, logistics, or shipping context. There is no visible large text in the image apart from the logo on the jacket and the necessary safety gear items.
+
+This image is likely part of an annual development report highlighting workforce diversity, safety, or operational activities in a shipping or logistics company.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p11_img1.png)
 
@@ -1245,7 +1292,7 @@ and
 environmental 
 and 
 social compliance. All four trust funds will be 
-brought under one coordinating MIGA Strategic  
+brought under one coordinating MIGA Strategic 
 Priorities Framework to ensure internal alignment 
 and a consistent and coordinated approach.
 FINANCIAL INTERMEDIARY FUNDS 
@@ -1259,7 +1306,7 @@ The
 World 
 Bank 
 supports 
-FIFs  
+FIFs 
 through tailored administrative, financial, legal, or 
 operational services.
 Most often launched at high-level, multilateral 
@@ -1292,31 +1339,11 @@ Sarah Farhat / World Bank
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image is a wide, horizontal photograph capturing a group of people gathered around a water collection or distribution point in a rural setting. The scene is set outdoors on a dry, dusty ground with a clear sky in the background.
+The image shows a group of people, mostly women and children, gathered around an elevated concrete platform in a dry, dusty environment. Several yellow jerry cans are placed on and around the platform, suggesting that this might be a water collection or distribution point. There are also three donkeys in the scene, two standing prominently in the foreground and one near the left side, possibly used for transporting water containers.
 
-Key elements and layout:
+The people are dressed in colorful traditional clothing, and some of them are standing while others are sitting or leaning against the jerry cans. A woman near the center appears to be stirring or managing something on the platform. There is no visible text in the image.
 
-1. **Central Platform:** 
-   - A raised concrete platform occupies the central part of the image.
-   - Around the platform's edges, there are numerous yellow jerry cans arranged, likely used for collecting water.
-
-2. **People:**
-   - Several women, dressed in brightly colored traditional attire and headscarves, stand on and around the platform.
-   - They appear engaged in conversation or in the process of collecting water.
-   - There are also a few children present in the scene, one standing near the jerry cans on the right and two on donkeys.
-
-3. **Animals:**
-   - Three donkeys are visible in the image: two near the edge of the platform and one on the left side with a child.
-   - These donkeys might be used to transport water containers.
-
-4. **Environment:**
-   - The ground is bare earth, dry and dusty, emphasizing a rural area.
-   - Sparse vegetation is visible in the background, with a few bushes or small trees.
-
-5. **No Text:**
-   - There is no visible text in the image.
-
-Overall, this image appears to document daily life related to water collection in a rural community, showing the importance of this resource and the communal
+This image likely represents a community scene related to water access or resource management, fitting for an annual development report by illustrating local daily life and resource challenges or progress.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p12_img1.png)
 
@@ -1409,7 +1436,7 @@ Emergency Financing Facility (PEF), reducing the
 total number of FIFs to 25 at the end of FY2021. 
 FIFs financed a significant portion (28 percent) 
 of total RE disbursements to project supervision 
-by the World Bank over the last five years. During  
+by the World Bank over the last five years. During 
 FY2017–21, the largest FIF contributors to Bank-
 supervised RE activities were the Global Partnership 
 for Education (GPE) ($1.22 billion), the Climate 
@@ -1440,7 +1467,7 @@ achieve its developmental goals through activities
 at the country level, based on decisions made by 
 sovereign country authorities. This requires deep 
 and customized analysis of the economic and 
-social conditions in each country, and a careful  
+social conditions in each country, and a careful 
 assessment of government priorities and of the 
 Bank Group’s comparative advantage within 
 each country.
@@ -1654,9 +1681,9 @@ Chhor Sokunthea / World Bank
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image features a close-up of two individuals, prominently showcasing a woman in the foreground who is smiling broadly. She is holding several ears of corn, with one in her left hand and three in her right hand. The woman is dressed in a light purple buttoned shirt with embroidery details and a red and white checkered headscarf. Behind her, a man wearing a brownish jacket and a cap is slightly blurred, giving depth to the image. Both are standing amidst tall green corn plants, indicating they are in a cornfield.
+The image features a close-up scene of two people, likely farmers, in a green agricultural field. The main focus is on a smiling woman wearing a purple buttoned shirt with embroidery details and a red-and-white checkered headscarf. She is holding several ears of corn in both hands. Behind her, a man wearing a dark shirt and grey cap is partially visible, looking downward. The background is filled with green corn plants, indicating a lush and thriving crop.
 
-There is no visible text in the image. The composition highlights themes of agriculture, rural livelihood, and possibly empowerment or development, making it well-suited for use in an annual development report.
+There is no visible text or written content in the image. The image's layout centrally highlights the woman, emphasizing a sense of happiness and productivity in farming, suitable for inclusion in an annual development report related to agriculture, rural development, or livelihoods.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p14_img1.png)
 
@@ -1684,7 +1711,7 @@ achieve better outcomes for client countries. During
 FY2021, the World Bank continued the transition 
 to Umbrella 2.0 Programs by consolidating, 
 redesigning, rebranding, and/or combining existing 
-IBRD/IDA trust funds, as well as establishing  
+IBRD/IDA trust funds, as well as establishing 
 new programs.
 ROADMAP TO A LESS FRAGMENTED 
 TRUST FUND PORTFOLIO
@@ -1747,7 +1774,7 @@ recommendations on addressing the challenges
 and opportunities. In FY2021, “Deep Dives” with 
 donor agencies, consultations, and events at 
 the World Bank–International Monetary Fund 
-(IMF) Annual and Spring Meetings and regular  
+(IMF) Annual and Spring Meetings and regular 
 communication buttressed development partner 
 support and buy-in. 
 Internally, continued engagement across the 
@@ -1793,15 +1820,20 @@ Bank’s planning cycle.
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-This image depicts a group of people working outdoors in a field or garden setting. The scene is lush with green plants growing in rows, and the workers are engaged in manual labor, possibly planting or harvesting crops. 
+The image shows a group of people working in a field, possibly engaged in agricultural activities such as planting or weeding. 
 
-Key elements of the image include:
-- Several people crouching or bending down to work on the soil.
-- Two umbrellas held by individuals to provide shade; one umbrella is green with white polka dots, and another is lavender with a geometric pattern.
-- The workers are dressed in casual, practical clothing suitable for fieldwork, including a mix of long-sleeve shirts, t-shirts, and hats.
-- Background features include tall trees and greenery, suggesting a rural or semi-rural environment.
+**Layout and Key Elements:**
+- The individuals are positioned along furrows in the soil with green plants growing on either side.
+- The person in the foreground is wearing a light purple shirt with black text and patterned pants, sitting down and smiling while working with the soil.
+- Behind her, a woman in a red long-sleeved shirt and a camouflage baseball cap with the letters "LA" stands holding a purple umbrella with a geometric pattern.
+- Other people in the background also appear to be working in the field, some holding umbrellas to shield themselves from the sun.
+- The background shows lush greenery with several tall palm trees and other vegetation under a clear, bright sky.
 
-There is no visible text in the image. The overall impression fits well within the context of an annual development report, highlighting agricultural activities or community labor endeavors.
+**Text:**
+- The only visible text is on the cap of the woman in red, displaying "LA" and "LOS ANGELES."
+- The shirt of the woman in purple has some cursive text, but it is partially obscured and difficult to clearly read from the image.
+
+The image conveys a sense of outdoor labor and community effort, set in a vibrant natural environment. There is no additional textual content or graphical layout visible in this particular image portion.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p15_img1.png)
 
@@ -1837,14 +1869,14 @@ all cases, the anchor MDTF and the associated
 trust funds retain common governance, results 
 framework, and reporting in the new umbrella 
 program. The anchor MDTF is a programmatic 
-trust fund with a relatively broad thematic or  
+trust fund with a relatively broad thematic or 
 geographic scope. 
 Umbrella 
 2.0 
 Programs 
 offer 
 options 
-for  
+for 
 development partners who are interested in 
 supporting a specific theme or geographic area. 
 These options can accommodate situations where 
@@ -1872,7 +1904,7 @@ FIGURE 1.1
 Umbrella 2.0 Programs provide scale and efficiency 
 for enhanced development impact and effectiveness, 
 by offering the following benefits:
-A more strategic way to partner with the  
+A more strategic way to partner with the 
 World Bank and to finance priorities. Umbrella 
 2.0 Programs offer an approach to organizing and 
 managing trust funds in support of one or more 
@@ -1909,26 +1941,30 @@ dialogue and to ensure that individual activities are
 aligned around common outcomes. The Partnership 
 Council endorses the Umbrella 2.0 Program’s 
 annual work program and budget after which 
-the World Bank allocates program resources to  
+the World Bank allocates program resources to 
 individual activities.
 
 
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image shows a healthcare setting, likely a clinic or hospital waiting area. The layout includes a doorway through which the scene is viewed, with two people visible inside the room. 
+The image shows a hospital or clinic setting. The layout is as follows:
 
-Key elements:
-- A woman standing and holding a baby dressed in yellow. The woman is wearing a colorful traditional outfit with shades of yellow, red, and purple.
-- Two plastic chairs are present; one white chair is empty and located near the wall on the left-hand side, and one blue chair occupied by another person seen from the back.
-- The background features glass windows with posters and notices affixed to them. 
+- A woman dressed in a colorful (yellow, orange, red, and white pattern) traditional outfit is standing towards the right side of the frame. She is holding a baby wrapped in yellow clothes.
+- Behind her, there are two blue plastic chairs, one of which is occupied by another woman wearing a pink and white patterned outfit seated with her back to the camera.
+- On the left side of the frame, there is a white plastic chair.
+- The room has white lower wall paneling and glass windows or partitions on the upper half with various posters attached.
 
-Text in the image (in Bengali):
-- The most prominent poster on the left window reads the heading "রেজিস্ট্রেশন" (Registration) in red at the top.
-- Below this heading, there is a circular graphic likely related to pregnancy or maternal care, accompanied by smaller Bengali text likely about services or information for pregnant women.
-- On the right window, partial text reads "কাউন্সেলিং ফার্মেসী," which translates to "Counseling Pharmacy."
+The key elements include:
+- The woman and baby as the focal subjects.
+- Chairs indicating a waiting area.
+- Informational posters on the glass partition, which appear related to healthcare.
 
-Overall, the image depicts a mother and baby at a health facility, with informative posters about maternal care and services in the background, suitable for an annual development report focused on healthcare or maternal and child health programs.
+Text visible on the posters (in Bengali language):
+- The poster on the left has the heading "রেজিস্ট্রেশন" (Registration).
+- The poster on the right has the words "কাউন্সেলিং" (Counseling) and "ফার্মাসী" (Pharmacy).
+
+Overall, the image likely depicts a mother and child in a healthcare setting, possibly part of a maternal or child health program, fitting the theme of an annual development report in health services.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p16_img1.png)
 
@@ -1996,7 +2032,7 @@ fundraising plans complementary to and supportive
 of IDA and IBRD. Moving forward, the streamlined 
 SEFF will be an annual management exercise 
 for reviewing and updating strategic priorities for 
-fundraising and authorizing changes in the trust fund  
+fundraising and authorizing changes in the trust fund 
 portfolio architecture.
 In parallel with the World Bank’s transition to 
 Umbrella 2.0 Programs, IFC has undertaken a 
@@ -2087,13 +2123,13 @@ COENEN. |
 crite
 
 **Image Description:**
-The image shows a market or small store setting with a male vendor standing behind a counter. The vendor is wearing a gray cap, a gray shirt, a black apron, and a white face mask. He is positioned behind an electronic weighing scale with a digital display showing the numbers "0.025," "000," and "0."
+The image shows a shopkeeper standing behind a counter in a small grocery or convenience store. He is wearing a gray cap, a gray shirt, a black apron, and a white face mask. The counter has a weighing scale with a digital display screen showing "0.025" and "0.00" for price and total, respectively.
 
-The background is filled with various products neatly arranged on shelves. These include multiple brands of canned goods, boxed milk, and other packaged food items. Visible brand names include "Gloria," "Laive," "Idea," "Pura Vida," and "Nestlé." There are also several labels and signs on the shelves promoting usage of certain products in cooking and breakfast.
+Behind him, the shelves are densely stocked with various packaged food products. These include canned goods, powdered milk, and other grocery items with prominent brand labels like "Gloria," "Laive," "Nestlé," and "Idea." The packaging is colorful, with blues, reds, yellows, and greens being dominant.
 
-In the foreground, there is a clear barrier or protective screen with hand-written signage attached to it. The sign reads "MANTENER 1 METRO DE DISTANCIA," which translates to "MAINTAIN 1 METER DISTANCE," indicating a social distancing measure within the store. Another visible green sign at the bottom mentions "LA CALERA," possibly the store's name or a related brand.
+In the foreground, attached to a transparent barrier or glass, there is a handwritten sign in Spanish that reads: "MANTENER 1 METRO DE DISTANCIA" which translates to "KEEP 1 METER DISTANCE." This suggests a COVID-19 safety measure to maintain social distancing.
 
-Overall, the layout showcases a typical small grocery or convenience store counter with products displayed behind the cashier, safety measures in place, and a focus on customer health and hygiene.
+Overall, the image layout focuses on the shopkeeper amid a well-stocked small grocery environment, emphasizing health safety via the mask and distancing sign. The scene captures a moment of daily commerce with due attention to pandemic norms.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p17_img1.png)
 
@@ -2766,9 +2802,7 @@ Development, Cameroon
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image shows a close-up view of two construction or industrial workers, both wearing bright orange safety jackets with reflective strips. The main focus is on a woman in the foreground who is wearing a white hard hat equipped with a headlamp. She appears to be concentrating on a task, operating some equipment or machinery out of the frame to the right. In the background, there is another worker, slightly blurred, also dressed in orange safety gear and a hard hat, seemingly engaged in a similar task.
-
-The setting suggests a worksite with industrial machinery or construction equipment. The image does not contain any visible text or written content. It conveys themes of safety, professionalism, and active work in a physically demanding environment, making it suitable for an annual development report highlighting workforce, safety, or operational aspects.
+The image shows two workers in a professional industrial or construction setting. The main focus is on a woman in the foreground wearing an orange high-visibility jacket and a white safety helmet with a mounted headlamp. She appears to be engaged in a task, possibly operating machinery or equipment. In the background, there is another worker, also dressed in orange safety gear with a helmet, who seems to be working or inspecting something, but they are out of focus. The overall atmosphere suggests a work environment that prioritizes safety and hands-on involvement. There is no visible text in the image.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p20_img1.png)
 
@@ -2845,11 +2879,11 @@ Chapter 2. Responding to the COVID-19 Crisis
 **Image 2 OCR + Description:**
 ```
 **Image Description:**
-The image shows a circular photograph centered on a black background with two concentric blue and black arcs partially encircling the photo on the right side, almost like a decorative frame.
+The image shows a close-up of two healthcare professionals, likely in a hospital or medical setting, closely examining and operating a medical device or machine. Both are wearing protective face masks, and one is also wearing a blue medical cap with goggles on top. The person on the right is pointing towards the monitor of the device, which has text and icons displayed, though the text is not fully clear.
 
-Inside the circular image, there are two healthcare professionals, both wearing white protective masks. One person is wearing a white medical uniform with green stripes on the sleeves, and the other is wearing blue scrubs with a blue cap and protective eyewear on top. They are focused on a medical device that has tubes and a screen. The person in the white uniform is pointing at or adjusting the machine's screen, which has various data and controls visible but is not fully legible.
+The photo is circular in shape, bordered with two concentric lines that intersect with three small circles along the outer line. The background surrounding the circular image is black.
 
-There is no textual content visible anywhere in or around the image, so this is purely a visual element likely illustrating healthcare or medical technology as part of the annual development report. The black background and circular framing suggest it might be part of a professionally designed document layout.
+There is no visible text apart from some partial text on the mask and on the machine's screen, but these are not legible enough to transcribe. The image likely emphasizes teamwork, healthcare technology, and professional care, fitting the theme of an annual development report focused on healthcare or medical progress.
 ```
 ![Image 2](images/2021TrustFundAnnualReports_p21_img2.png)
 
@@ -2880,7 +2914,7 @@ FY2021 (July to September 2020). The number of
 new trust-funded RE grant commitments peaked 
 one quarter later at 26 grants during the second 
 quarter of FY2021 (October to December 2020). 
-Trust fund commitment amounts for both BE and  
+Trust fund commitment amounts for both BE and 
 RE activities peaked during the first quarter of 
 FY2021, with BE grants at $27.4 million and RE 
 grants at $297 million (Figure 2.3).
@@ -3015,7 +3049,7 @@ implementation.
 Working 
 with 
 governments 
-and CSOs, teams have shifted gears to continue  
+and CSOs, teams have shifted gears to continue 
 reaching out to marginalized populations. An 
 e-learning program was developed in lieu of in-
 person training, enabling teams to reach much 
@@ -3029,7 +3063,7 @@ development of new Massive Online Open Courses
 (MOOCs) offering self-paced learning opportunities, 
 as well as adapting other training and learning 
 opportunities to a virtual format. 
-From a thematic perspective, five World Bank  
+From a thematic perspective, five World Bank 
 Global Practices collectively account for 87 percent 
 of the IBRD/IDA trust fund response to COVID-19, 
 starting with the Health, Nutrition and Population 
@@ -3147,7 +3181,7 @@ Not only has CEPI invested in one of the world’s
 largest portfolio of vaccines against COVID-19, 
 it has also awarded forgivable loans to expand 
 global manufacturing capacity and established 
-a global network of laboratories to standardize  
+a global network of laboratories to standardize 
 vaccine assessment.
 Established in 2006, IFFIm issues Vaccine Bonds 
 in capital markets, backed by binding pledges from 
@@ -3228,15 +3262,9 @@ Victor Idrogo / World Bank
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image shows a close-up scene where an adult is helping a young girl put on a gray face mask. The girl has long dark hair and is wearing a light purple shirt. The adult, whose face is only partially visible but also wearing a white face mask, is carefully adjusting the straps of the mask on the girl. The background is slightly blurred but appears to be outdoors with greenery and colorful elements, possibly flowers or decorations. There is no visible text in the image.
+The image shows a close-up scene featuring two people, both wearing face masks. The focus is on an adult's hands as they adjust the mask strap of a young girl. The girl has long dark hair and wears a light purple T-shirt with a small colorful graphic on the front. The background includes vibrant plants and flowers, adding a natural, outdoor setting to the image. There is no visible text in the image. 
 
-The key elements include:
-- Adult adjusting the mask on the girl.
-- Girl wearing a light purple shirt.
-- Both individuals wearing face masks.
-- Outdoor setting with plants and colors in the background.
-
-This image could effectively illustrate themes of health, safety, family care, or community efforts in an annual development report.
+The image conveys a moment of care and health safety, likely relating to themes of community well-being, protection, or public health measures, which could be relevant for an annual development report's section on health or community programs.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p24_img1.png)
 
@@ -3375,15 +3403,11 @@ Swiss State Secretariat for Economic Affairs
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image portrays a person wearing protective gear, including a white hooded suit, gloves, and a face mask. The individual is handling a large, worn yellow cylinder, which appears to be a gas or oxygen tank. The tank has noticeable rust and paint peeling. The person is gripping the tank's top blue handle, which has a protective ring-like structure and contains small stickers or labels marked with "Air Liquide."
+The image depicts a close-up of a person wearing full protective gear, including a white hazmat suit with a hood, a face mask, and gloves. The individual is handling a large, worn, yellow gas cylinder with a blue handle. The person appears to be focused on the task, carefully adjusting or inspecting the cylinder's blue valve or cap. 
 
-The background features vertical yellow metal pipes or similar cylindrical objects, also displaying varying degrees of rust and wear. A metal chain runs horizontally above the person and tank, partially visible in the image.
+Visible text in the image includes "Air Liquide" repeated multiple times on a label wrapped around the cylinder's blue handle area. The background is slightly blurred but shows more yellow cylinders stacked or arranged vertically, with a rusty chain hanging above.
 
-The overall color scheme primarily includes shades of yellow, white, and blue, with some gray from the gloves and ground.
-
-There is no visible textual content other than the "Air Liquide" branding on the stickers attached to the tank's handle.
-
-This image likely highlights safety, handling, or industrial operations, fitting well into an annual development report's themes of safety protocols, operational standards, or infrastructure maintenance.
+This image signifies a scenario of safety, careful handling of industrial or medical gas cylinders, and adherence to protective measures, which might relate to health, safety, and operational aspects covered in an annual development report.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p25_img1.png)
 
@@ -3398,7 +3422,7 @@ World Bank Group trust funds are providing policy
 and financial assistance to governments, businesses, 
 and financial institutions to help companies, 
 especially small and medium-enterprises (SMEs), 
-preserve jobs, weather the crisis, and return  
+preserve jobs, weather the crisis, and return 
 to growth.
 The Consultative Group to Assist the Poor 
 (CGAP) has provided guidance to microfinance 
@@ -3430,7 +3454,7 @@ of its the major work streams, but particularly
 Environmental Health, Air Quality Management, 
 and Circular Economy, will have strong links to the 
 COVID-19 pandemic in terms of analytical work, 
-addressing connections between air pollution and  
+addressing connections between air pollution and 
 COVID-19 outcomes. 
 PROBLUE is also contributing to a clean recovery 
 through its focus on marine pollution prevention, 
@@ -3453,7 +3477,7 @@ risk management, plus important cross-cutting
 themes, such as poverty and distributional impact, 
 transparency, and accountability. An additional 
 $5.4 million in donor contributions is supporting 
-GTP efforts on long-term fiscal sustainability  
+GTP efforts on long-term fiscal sustainability 
 and resilience. 
 In 2020, IFC signed its first national-level agreement 
 with the Federal Government of Somalia to 
@@ -3587,7 +3611,7 @@ management—all essential building blocks for
 greater resilience and key development priorities 
 of client countries. Not only do these themes align 
 with the GRID approach, but they also reveal the 
-diversity and strategic value of trust-funded activities  
+diversity and strategic value of trust-funded activities 
 already underway. 
 As shown in Table 3.1, social protection and jobs has 
 received more than 42 percent of IBRD/IDA trust 
@@ -3655,19 +3679,16 @@ A
 E ACTIOn, GENDEp
 
 **Image Description:**
-The image showcases a circular layout with five distinct sections, each represented by a circular photo, accompanied by an icon and a bold label that highlights key focus areas of development:
+The image layout is circular, with five main circular photo elements distributed mainly along the left and center side, set against a dark background that resembles a partial globe or world map.
 
-1. **Climate Action** - Positioned at the top left, this section features a group of people, possibly in a community meeting or cultural event. The accompanying icon is a green circle with a white outline of the Earth.
+Key elements and their labels:
+1. Top left circle labeled "CLIMATE ACTION" with a green icon showing an earth/globe symbol.
+2. Top right circle labeled "GENDER" with a blue icon representing gender symbols. The image inside shows a woman sitting by a market stall with fruits.
+3. Middle left circle labeled "HEALTH" with a teal icon showing a hand holding a heart. The photo shows a healthcare worker interacting with a woman and child.
+4. Center right circle labeled "SOCIAL PROTECTION & JOBS" with two icons: an orange one showing people, and a yellow one showing a briefcase. The photo features a smiling woman in a colorful headscarf.
+5. Bottom left circle labeled "DEBT MANAGEMENT" with a red icon illustrating a chart with a dollar sign. The image depicts men working at desks in an office setting.
 
-2. **Gender** - Located at the top right, this section displays an image of a woman sitting near a crate of tomatoes in an outdoor setting. The icon is a blue circle with a combined male and female gender symbol in white.
-
-3. **Health** - At the left middle, this section shows a healthcare worker talking to a woman with a child beside her, indicating health care or consultation. The icon is a teal circle with a white heart and hand symbol.
-
-4. **Social Protection & Jobs** - Positioned on the right middle, this section features a smiling woman in a colorful blouse sitting outside. Two icons accompany this section: an orange circle with a shield and group of people symbol and a yellow circle with a briefcase symbol, representing social protection and employment.
-
-5. **Debt Management** - At the bottom left, this section depicts a few men in a formal office setting, presumably in discussion or working. The icon is a red circle containing a white graph with a dollar sign.
-
-The background is a gradient blue globe with visible landmasses, adding a global context to the themes
+The overall design uses color-coded icons and photographic elements to visually represent thematic priorities or sectors, likely related to development goals or areas of annual achievement. The circular motif and globe imagery suggest a global or international development context.
 ```
 ![Image 2](images/2021TrustFundAnnualReports_p27_img2.png)
 
@@ -3799,11 +3820,17 @@ Multi-Donor Trust Fund Management Committee
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image shows a setting where a woman, likely a healthcare or community worker, is engaged in an educational or counseling session with another woman and a child. The worker, dressed in white with a cap, is pointing to a printed sheet that contains a circular diagram and some illustrations, while the other woman and the child attentively look on. The printed sheet includes a circle divided into colored segments and an icon of a person speaking or explaining something.
+The image shows a woman in what appears to be a healthcare or educational setting, likely a clinic or community center. She is wearing a white uniform and cap, suggesting she may be a healthcare worker or educator. She is holding and pointing to a flip chart or laminated card displaying an illustrated pie chart or circular infographic with text and small images of people. Across from her sits another woman and a young child, attentively listening.
 
-The scene takes place indoors, with a bed and curtains in the background, and some neatly arranged green items on the left that resemble gloves or protective gear. An open notebook or ledger is placed on the table between the women, suggesting note-taking or record-keeping is part of the process.
+In front of the healthcare worker is a large open notebook with handwritten notes, possibly sign-in records or patient/visitor information. The background features shelves with neatly organized green cloth items, which may be uniforms, documents, or supplies, as well as a bed or couch covered with a bright pink cloth.
 
-This image likely emphasizes community health, education, or outreach activities, showcasing direct interpersonal engagement and the use of visual aids for communication. There is no legible text on the printed sheet visible enough for transcription.
+The key elements are:
+- The healthcare worker in uniform instructing the visitor using a visual aid.
+- The visitor and child listening attentively.
+- The large open notebook on the table.
+- The laminated card with an infographic, showing a circular chart divided into sections with some text and illustrations of people.
+
+Due to the angle and resolution, the exact text on the infographic and notebook is not clearly readable, but the context implies it is related to community health or education topics for the annual development report.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p28_img1.png)
 
@@ -3850,7 +3877,7 @@ product, a regional catastrophe risk pool launched in
 2021, is underpinned by the first regional near-real-
 time flood monitoring platform and risk model. This 
 enables governments to make better risk-informed 
-decisions before, during, and in the aftermath  
+decisions before, during, and in the aftermath 
 of flooding.
 The Public-Private Infrastructure Advisory Facility 
 (PPIAF) is helping to expand African markets 
@@ -3930,7 +3957,7 @@ hectares, conserving more than 40 percent of their
 farmland. In parallel, the government and research 
 institutions are helping rural communities increase 
 incomes and food security through climate-
-smart livelihood alternatives that also strengthen  
+smart livelihood alternatives that also strengthen 
 low-carbon development and restore productive 
 natural resources. 
 The local planning approach has proven so 
@@ -3940,7 +3967,7 @@ outlined in the National Development Plan. Newly
 approved GEF financing will help scale up efforts to 
 strengthen management and financial sustainability 
 of additional protected areas, and it will build on 
-the results of local community agreements to  
+the results of local community agreements to 
 expand the area under sustainable community 
 forestry practices. 
 Parques Nacionales de Colombia
@@ -3956,18 +3983,20 @@ Tortuga community, San José del Guaviare
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image shows a group of indigenous people standing in a row indoors. They are dressed in traditional attire, featuring white clothing adorned with colorful designs such as birds and native patterns. Many of them are wearing elaborate bead necklaces and other jewelry. One person on the left, a woman, is speaking into a microphone. In front of the group, there are several empty white plastic chairs arranged in a row.
+The image depicts a group of indigenous people standing in a row inside a room with green and yellow walls. The group consists of men and one woman, all dressed in traditional attire, including white garments adorned with colorful embroidery and beaded necklaces. One woman in the foreground is holding a microphone, suggesting she is speaking or addressing the group.
 
-The background features a green and yellow painted wall with banners and posters. One visible banner includes the text "ACIPS" and some indigenous-related content in Spanish. The setting appears to be a community meeting or cultural event possibly related to development or advocacy for indigenous communities.
+In the background, there is a whiteboard and a banner with some logos and text. The banner includes various logos, such as "Amazonía" and "get", and mentions "ACIPS" and "Guardia Indígena del Pueblo Awá". The text on the banner refers to indigenous community defense and protection.
+
+In front of the group, several empty white plastic chairs are arranged in rows, indicating this is likely a meeting or gathering space.
 
 Key elements:
-- Indigenous people in traditional clothing standing in a line
-- Woman holding a microphone speaking
-- White plastic chairs in front of the group
-- Green and yellow painted walls with banners/posters
-- Text on one banner includes "ACIPS" and references indigenous rights or community
+- Indigenous group standing in a line, wearing traditional clothing and beaded necklaces
+- Woman holding a microphone
+- Whiteboard and a banner with logos and text related to indigenous protection and organizations
+- Several empty white plastic chairs in the foreground
+- Room with green and yellow walls and a corrugated metal roof
 
-The image conveys a sense of cultural pride, community engagement, and formal gathering, fitting for inclusion in an annual development report focusing on indigenous peoples.
+The overall layout suggests the image captures a formal gathering or presentation involving indigenous community members, aligned with themes of community organization, cultural identity, and advocacy or development action.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p29_img1.png)
 
@@ -4074,7 +4103,7 @@ of financial products to smallholder farmers and
 represent a safe and convenient way to save, obtain 
 loans, and make or receive payments. However, 
 in low- and middle-income countries, women are 
-36 percent less likely than men to own mobile  
+36 percent less likely than men to own mobile 
 money accounts. 
 The Umbrella Facility for Gender Equality 
 (UFGE) is supporting efforts to promote greater 
@@ -4087,7 +4116,7 @@ the needs of women farmers and develop more
 targeted financial products and marketing. Lessons 
 learned and recommendations from the three pilot 
 programs were consolidated and captured in a 
-2021 report, Women in Agriculture: Using Digital  
+2021 report, Women in Agriculture: Using Digital 
 Financial Services. 
 Fenix (now Engie Energy Access), an off-grid solar 
 home system provider in Uganda, invested in new 
@@ -4119,9 +4148,11 @@ Stephan Gladieu / World Bank
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image features a woman seated outdoors with a large wooden crate filled with tomatoes in the foreground. The woman is smiling, wearing a turquoise top and a patterned skirt. Behind her, there are banana trees and other greenery, indicating a farm or garden setting. The lighting suggests it might be either early morning or late afternoon. 
+The image shows a woman sitting beside a large wooden crate filled with tomatoes. The woman is smiling and wearing a blue patterned sleeveless top and a purple patterned skirt, with her hair styled in a bun. The background features tall green banana plants and other greenery, suggesting an outdoor agricultural setting.
 
-There is no visible text in the image itself. The overall composition emphasizes agriculture, possibly reflecting a successful harvest, and the woman's expression conveys positivity and satisfaction. This image would be fitting for an annual development report focused on agricultural progress or rural development.
+The layout is vertical, with the woman positioned on the right side of the image and the crate of tomatoes prominently on the left side. The lighting appears natural, highlighting the woman’s expression and the ripe tomatoes.
+
+The image contains no text. It captures a positive and hopeful moment, likely emphasizing themes of agricultural productivity, farmer empowerment, or rural development, which is appropriate for an annual development report.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p30_img1.png)
 
@@ -4193,7 +4224,7 @@ Integrating best practices for inclusion, data privacy,
 and digital security, ID4D also helped adapt the 
 registration approach for COVID-19 to prioritize 
 low-income households that would benefit most 
-from a digital ID to access social protection and  
+from a digital ID to access social protection and 
 financial services.
 ZAMBIA: PUTTING CASH IN  
 THE HANDS OF THE POOR 
@@ -4248,9 +4279,13 @@ SCT beneficiary, Zambia
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image shows a woman standing outdoors in front of a building. She is smiling broadly and holding currency notes in her hands. The woman is dressed in a navy blue top with floral patterns and a colorful patterned skirt. Behind her, there is a building with a doorway through which another individual, dressed casually and wearing a face mask, is visible. The building has a rustic appearance, and a metal pole is also seen near the woman. 
+The image shows a cheerful woman standing outside a building, holding several banknotes in her hands. She is smiling broadly and appears to be happy. The woman is dressed in a colorful outfit, with a dark blue top adorned with red and yellow flower patterns, and a vibrant skirt featuring a mix of blue, red, and other colors in intricate designs. She also has a dark headscarf on.
 
-There is no visible text in the image itself. The focus is on the woman's joyful expression and the money she is holding, which may symbolize financial support or success, fitting the context of an annual development report.
+In the background, a man wearing a light-pink shirt, dark pants, white shoes, and a blue face mask is visible. He stands near the entrance of the building, which has a concrete or stucco exterior wall. There is a metal pole near the woman and a window behind her with papers or notices displayed.
+
+There is no text visible in the image. 
+
+The layout centers on the woman as the key subject, with the background elements suggesting a community or organizational setting. The image conveys a positive moment, likely related to receiving funds or assistance, fitting the context of an annual development report.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p31_img1.png)
 
@@ -4278,7 +4313,7 @@ with domestic resource mobilization. The World
 Bank is helping countries around the world to 
 strengthen their capacity to manage debt and tax 
 revenue generation, with trust funds providing 
-important resources for technical assistance  
+important resources for technical assistance 
 and guidance.
 For example, the Debt Management Facility (DMF) 
 helps countries strengthen debt management to 
@@ -4337,7 +4372,7 @@ from development partners, the country was able
 to meet its government’s financing needs at a time 
 when capital markets were in turmoil. Fortunately, 
 Georgia had already built a framework for greater 
-resilience, with support from the DMF, prior to  
+resilience, with support from the DMF, prior to 
 the pandemic.
 The DMF started providing technical assistance to 
 Georgia in 2013 with an initial Debt Management 
@@ -4383,16 +4418,19 @@ World Bank
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image shows an office environment with four men engaged in various work-related activities. The layout includes two desks arranged in a room with office chairs and typical office supplies. 
+The image depicts a typical office setting with four men engaged in different activities at their desks.
 
-Key elements:
+Layout and Key Elements:
+- In the foreground, two men are prominently seated across from each other at a desk. The man on the left is writing on a document with a pen, while the man on the right is attentively observing or listening.
+- On the desk between them, there is a laptop, a wired computer mouse, several stacks of documents, a telephone, and some stationery, indicating active work and communication.
+- In the background, two additional men are seated at separate desks. One is facing away, and the other appears to be in thought or conversation.
+- The office environment includes typical office furniture such as filing cabinets, chairs, and desks cluttered with papers and office supplies.
+- The walls have some documents or papers pinned up, adding to the work-focused atmosphere.
 
-- Two men seated facing each other at the foreground desk. One man is writing on a document with a pen, while the other is looking at him, appearing thoughtful or engaged in conversation.
-- On this desk, there is a laptop, multiple piles of documents or folders, office supplies such as a pen holder with pens, sticky notes, a telephone, and several wires and electronic devices.
-- In the background, two other men are also at desks, one is facing sideways typing on a laptop, and the other is sitting back, seemingly in deep thought.
-- The office has filing cabinets on the right side and some papers posted on the wall.
+Text:
+- There is no clearly readable text in the image aside from possible small notes or labels on the pinned papers and documents, which are too small or out of focus to be legible.
 
-There is no visible text in the image itself that can be read clearly. The image reflects a professional, working atmosphere, consistent with an annual development report highlighting teamwork or office activity.
+Overall, the image conveys a busy work environment involving document review, discussion, and office-based tasks, fitting the context of an annual development report showcasing organizational activity.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p32_img1.png)
 
@@ -4432,7 +4470,7 @@ which are long-term engagements that build
 capacity and enable markets. As governments 
 and companies have had to navigate multiple, 
 compounding shocks during the past year, 
-IFC’s work is helping to build the foundation for  
+IFC’s work is helping to build the foundation for 
 greater resilience. 
 Advisory projects on digital financial services, for 
 example, have helped governments revise their 
@@ -4488,7 +4526,7 @@ MIDDLE EAST AND NORTH
 AFRICA: BUILDING THE 
 CAPACITY OF SMES  
 TO NAVIGATE COVID 19
-When IFC conducted its 2018 Advisory Services  
+When IFC conducted its 2018 Advisory Services 
 Client Survey, clients identified skills training as 
 the most anticipated need for the coming years. 
 COVID-19 only heightened this need. Many 
@@ -4529,7 +4567,7 @@ their financial services. Although the program was
 born out of a need to respond to COVID-19, IFC’s 
 work in building skills and knowledge for financial 
 institutions and MSMEs in MENA will benefit 
-both types of institutions and result in companies  
+both types of institutions and result in companies 
 that are better equipped to navigate the post-
 COVID-19 world.
 “Participants benefitted from support 
@@ -4546,16 +4584,20 @@ webinar facilitator for MSMEs in Tunisia and Morocco
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image depicts an office setting with two people working at their desks. 
+The image shows a workspace scene likely in an office setting. 
 
-Layout and Key Elements:
-- In the foreground on the right side, there is a woman with shoulder-length brown hair wearing a black top. She is focused on her work and using a computer mouse with her right hand. 
-- Her desk is cluttered with various documents, folders, and stacks of paper.
-- On the left side of the image, in the background, there is a man wearing a white shirt and a brown vest sitting at a desk, looking at a computer monitor. His workspace also has stacks of files and papers.
-- Behind him is a wooden-framed window with blinds, which appears to be part of an interior office wall, separating his space from another room or hallway.
-- The overall atmosphere suggests a busy, document-heavy work environment, possibly related to administration or office management.
+Layout:
+- In the foreground to the right, there is a woman seated at a desk. The photo captures her from the side, focusing on her face and upper body.
+- She is using a computer mouse with her right hand, which is resting on the desk near a keyboard.
+- The desk is cluttered with stacks of documents, folders, and papers.
+- In the background, slightly out of focus, there is a man working at another desk with a computer. The room has beige walls, a green door, and a window with blinds behind the man.
 
-There is no visible text in the image. The focus is primarily on the people working and the physical elements within the office space.
+Key elements:
+- The woman appears concentrated on her work.
+- The desk has ample paperwork, indicating a busy or productive work environment.
+- The secondary individual adds depth to the office setting, suggesting collaboration or parallel work.
+
+There is no visible text in this image. It is appropriate for an annual development report to highlight active workspace environments, employee focus, and document handling.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p33_img1.png)
 
@@ -4732,20 +4774,13 @@ CIF / ESMAP
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image shows an aerial view of an outdoor setup in a rural area, possibly part of a community or development project.
+The image shows an outdoor scene with a group of people gathered mostly under the shade of trees on the upper right side. The ground is bare earth, and there is a dirt road running horizontally in the upper part of the image.  
 
-### Layout and Key Elements:
-- **Foreground Center:** A large solar panel array mounted on a metal frame, casting shadows on the ground.
-- **Background Right:** A group of people gathered around a small area with several white display boards or posters set on stands.
-- **Far Right:** A blue canopy tent with the company name or logo "SolaRiseSys" visible on the side.
-- **Left Side:** A small green and white kiosk or shelter with a red object inside, and several individuals walking or standing around.
-- **Surroundings:** Sparse trees and dry, rural land with a dirt path or road running through the scene.
+In the center foreground, there is a solar panel installation mounted on a frame. It is fenced off for protection. To the right of the solar panels, there are several display boards or posters set up in a row on stands, possibly for informational or presentation purposes. Near these display boards, there is a blue canopy tent with "SolarRiseSys" printed on its side, indicating the likely organization involved.
 
-### Text:
-- The only visible text is on the blue canopy tent, which reads **"SolaRiseSys"**, likely the name of a company or initiative related to solar energy.
+On the left side of the image, there is a small green and white kiosk or booth with a couple of people inside or next to it. Several people are walking around or standing in small groups near the solar panels and displays, some dressed formally suggesting an official visit or event.
 
-### Context:
-This setup appears to be part of a solar energy project demonstration or community development effort, highlighting sustainable energy solutions—an appropriate feature for an annual development report focusing on infrastructure or renewable energy initiatives.
+Overall, the layout highlights the solar installation as the key element, with supporting informational displays and people gathered around, indicating a demonstration or community engagement event related to sustainable energy. There is no visible text other than "SolarRiseSys" on the tent.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p34_img1.png)
 
@@ -4770,7 +4805,7 @@ This
 chapter 
 provides 
 aggregate 
-financial  
+financial 
 information on the activities of trust funds and FIFs 
 administered individually or jointly by the World 
 Bank, IFC, MIGA, and ICSID, as well as externally 
@@ -4807,7 +4842,7 @@ Development partners recognize the strategic
 advantages of entrusting their resources with 
 the World Bank Group. It has the technical 
 expertise, country experience, and supervision and 
-reporting capacity to ensure funds are directed to  
+reporting capacity to ensure funds are directed to 
 development activities that align with agreed 
 priorities and achieve impact at scale. Efficiency, 
 relevance, global reach, and influential convening 
@@ -4847,11 +4882,11 @@ Chapter 4. Financial Analytics of World Bank Group Trust Funds and FIFs
 **Image 2 OCR + Description:**
 ```
 **Image Description:**
-The image features a group of four people closely gathered around a laptop, likely engaged in a collaborative learning or working session. Three of the individuals are seated, and one person, wearing a blue face mask, is standing and pointing at the laptop screen, suggesting he is explaining or guiding the others. The three seated individuals are wearing pink face masks and appear focused on the screen.
+The image shows a classroom or training room setting with multiple people, primarily young adults, gathered around desks with laptops. At the forefront, four individuals are closely interacting with one laptop. A woman on the left side is wearing a brown hijab and glasses, and a pink face mask. Next to her, a man in a light blue shirt and pink face mask is resting his head on his hand while looking at the laptop screen. Another man standing behind them points to something on the laptop screen; he is wearing a black shirt with white stripes and a blue face mask. On the right, a woman wearing a light pink hijab, glasses, and a pink face mask is using the laptop. 
 
-The background shows more people, also wearing masks, seated at computers in a classroom or training environment, indicating a group or educational setting.
+In the background, more people can be seen, also wearing face masks, engaged with laptops. The overall atmosphere is collaborative and focused, suggesting a learning or training environment.
 
-The image is framed within a creative circular layout with black and blue curved lines and dots, adding a dynamic and modern design element consistent with annual development reports. There is no visible text on the image itself.
+The image is enclosed within a circular frame with blue and black curved lines, giving it a modern and dynamic look consistent with an annual development report layout. There is no visible text in the image itself.
 ```
 ![Image 2](images/2021TrustFundAnnualReports_p35_img2.png)
 
@@ -4945,9 +4980,16 @@ BOX 4.1
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image shows two men standing on a bridge, looking out over a scenic view of a river or large body of water with green hills and an island in the background. One man is wearing a teal-striped shirt and jeans, while the other is in a plain white shirt and jeans. A motorcycle with a red helmet on the handlebar is parked beside them. The bridge has orange supports and metal railings.
+The image has a horizontal layout featuring two men standing on a bridge, looking out over a body of water with lush greenery and hills in the background. Both men appear relaxed, one wearing a striped green shirt with jeans, and the other in a plain white shirt with jeans. A green and white motorcycle with a red helmet on the handlebar is parked beside them.
 
-There is no visible text in the image itself. The setting appears peaceful and possibly symbolizes progress or connectivity, which could relate to themes in an annual development report.
+Key elements:
+- Two men standing and facing the water, seemingly engaged in conversation or observing the scenery.
+- A green and white motorcycle with a red helmet.
+- Red-painted structural beams of the bridge framing the scene.
+- A river or lake with green vegetation and hills beyond.
+- Clear sky with scattered clouds.
+
+The image contains no visible text, and it emphasizes a natural, tranquil environment with human presence, likely illustrating progress or development in a rural or semi-rural setting as part of the annual development report.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p36_img1.png)
 
@@ -5200,7 +5242,7 @@ FY2021, followed by private nonprofit entities with
 32 percent ($3.19 billion). The increase in paid-in 
 contributions ($970 million) in FY2021 compared 
 to FY2020 was primarily due to incremental 
-contributions by Germany, the United Kingdom,  
+contributions by Germany, the United Kingdom, 
 and Japan.
 Contributions by Development Partner Type: IBRD/IDA and IFC Trust Funds  
 (Cash Contributions)10 and FIFs (Contributions Paid-in), FY2017–21 
@@ -5257,7 +5299,7 @@ significant contributions to the Green Climate Fund
 contributions to the Global Fund to Fight AIDS, 
 Tuberculosis and Malaria ($0.99 billion) and the GEF 
 ($0.70 billion).
-Cash Contributions to IBRD/IDA and IFC Trust Funds by Top Ten Donors,  
+Cash Contributions to IBRD/IDA and IFC Trust Funds by Top Ten Donors, 
 FY2017–21 ($ billions)
 FIGURE 4.2
 
@@ -5272,7 +5314,7 @@ Since FY2017, blended finance signed contributions had averaged $137 million a y
 largest sovereign donor to IFC blended finance trust funds during FY2017–2021, accounting for 44 percent 
 of total cumulative signed contributions ($311 million), followed by the United Kingdom with 26 percent ($181 
 million) and Finland with 19 percent ($134 million). In FY2021, the United Kingdom was the largest donor 
-to IFC blended finance trust funds with $53.7 million in signed contribution, followed by Netherlands with  
+to IFC blended finance trust funds with $53.7 million in signed contribution, followed by Netherlands with 
 $17.5 million.
 Signed Contributions to IFC Blended Finance Trust Funds,  
 FY2017–21 ($ millions)
@@ -5359,20 +5401,19 @@ Orlando Barría /  World Bank
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image depicts a large indoor garment manufacturing or textile factory with several workers engaged in handling blue shirts. The layout is a wide, open factory floor with rows of tables and sewing machines. Key elements include:
+The image depicts a garment manufacturing or textile factory floor with workers engaged in sorting or quality-checking blue t-shirts. The layout shows multiple workstations arranged in rows under bright fluorescent lighting suspended from the ceiling. 
 
-- Numerous workers, all wearing blue uniforms, working at their respective stations.
-- Two prominent female workers in the foreground, both handling blue shirts. One is folding shirts on the left while the other inspects or folds shirts on the right.
-- A blue shirt hanging on a stand or frame in the center of the image, illuminated by overhead fluorescent lights.
-- Several stacks or piles of blue shirts placed on tables.
-- Overhead fluorescent lighting fixtures providing bright, even light across the workspace.
-- Industrial infrastructure such as exposed ceiling beams and ventilation visible above.
+Key elements:
+- Two women in the foreground focus on handling neatly folded or inspected blue t-shirts. One woman on the left appears to be folding shirts, while the woman on the right is holding a shirt up, likely checking it.
+- Several tables covered with stacks of blue t-shirts are visible.
+- One blue t-shirt is hanging from a white metal frame with attached lights, positioned centrally in the image.
+- Multiple workers, mostly women dressed in identical blue uniforms, work in the background with sewing machines and other packing equipment.
+- The environment is clean and organized with a high ceiling and industrial lighting fixtures.
 
-There is a small sign or paper attached to the stand holding the hanging blue shirt with some text and images, but the text is not legible from the image. The overall ambiance conveys an active and organized garment production environment.
+Text:
+- There is a small sign on the white frame above the hanging shirt that reads: "Quality eye folding flowed MDD."
 
-No other clear text is visible in the image apart from the worker's name badges, which are not readable.
-
-This image would be suitable for illustrating themes of manufacturing, labor, production processes, or industrial development in an annual report.
+This image illustrates a segment of the garment production process, focusing on quality control or packaging in a factory setting.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p40_img1.png)
 
@@ -5472,7 +5513,7 @@ Recovery Initiative MDTF
 WORLD BANK RECIPIENT-EXECUTED DISBURSEMENTS FUNDED FROM FIFS
 In FY2021, FIFs financed a significant proportion (25 percent) of total trust fund disbursements to RE activities 
 supervised by the World Bank. The share for the last five years is at 28 percent. The volume and share of the 
-FIF funding have declined during the last five years from $861 million (29 percent) in FY2017 to $631 million  
+FIF funding have declined during the last five years from $861 million (29 percent) in FY2017 to $631 million 
 (25 percent) in FY2021. Almost one-third of the funding during FY2017–2021 was from the Global Partnership 
 for Education. 
 Program 
@@ -5667,7 +5708,7 @@ related themes in all operational activities, including
 the investment management function entrusted to it 
 by its clients. 
 Since July 2019, the World Bank Treasury has 
-applied ESG Integration as the default SRI  
+applied ESG Integration as the default SRI 
 approach for all portfolios managed by the 
 World Bank. ESG Integration explicitly considers 
 material ESG factors in the investment process 
@@ -5711,7 +5752,7 @@ same
 sustainability 
 methodology 
 of positive selection to a wider investment 
-universe, encompassing, for example, high-grade  
+universe, encompassing, for example, high-grade 
 corporate bonds.
 
 
@@ -5730,7 +5771,7 @@ These trust funds broadly demonstrate a link to high priority areas, such as sta
 West Bank and Gaza), themes (climate change), and support to the SDGs (health, nutrition, and population). 
 The bottom eight deciles held 12 percent of total FHIT. While the long tail of smaller funds can provide important 
 funding for innovation and knowledge, fragmentation poses challenges to linking with strategic priorities 
-and achieving greater development outcomes. Small, customized trust funds may also increase transactions  
+and achieving greater development outcomes. Small, customized trust funds may also increase transactions 
 costs associated with fundraising, establishment, heterogeneous governance, results frameworks, and 
 reporting requirements.
 IBRD/IDA Trust Funds FHIT, June 30, 2021 
@@ -5743,7 +5784,7 @@ Facility ($294 million), IBRD as an implementing entity for the Green Climate Fu
 Canada Climate Innovation Financing Facility ($138 million). The FHIT for FIFs increased by $1.8 billion (7 
 percent) from $24.15 billion to $25.96 billion during FY2021. The increase was primarily due to larger FHIT for 
 the Green Climate Fund ($1.69 billion), the Coalition for Epidemic Preparedness Innovations ($863 million), 
-the Global Environment Facility ($244 million), and the Global Agriculture and Food Security Program  
+the Global Environment Facility ($244 million), and the Global Agriculture and Food Security Program 
 ($166 million).
 Distribution of Funds Held in Trust, FY2017–21 ($ billions)
 FIGURE 4.16
@@ -5910,9 +5951,9 @@ Unless otherwise specified, “$” represents United States dollars throughout 
 **Image 2 OCR + Description:**
 ```
 **Image Description:**
-The image features a circular photo prominently centered against a dark background embellished with thin, curved lines and small dots, creating a modern, dynamic frame. Inside the circle, three young children are shown smiling and wearing bright blue school uniforms, suggesting a cheerful and positive atmosphere, possibly in a classroom setting. The children are reaching out towards the camera with open hands, engaging directly with the viewer. The inspiration and energy in the image align with themes of development and growth, fitting well within an annual development report. 
+The image shows a group of smiling children, likely in a classroom given the background with windows and other children, wearing blue uniforms. The children appear to be expressing joy or excitement, reaching their hands toward the camera. The photograph is framed by circular graphics in black and blue, which overlay the image and add a modern, dynamic feel to the layout.
 
-There is no visible text within this image section itself, apart from a handwritten note on a child's uniform, which is not fully legible. The dark background and circular design elements frame the photo and provide a sleek, professional layout suitable for a report.
+The children are centered prominently, and the circular design frames them, directing focus. There is no visible text within the image itself. The circular graphic design and the joyful image of the children suggest a positive, hopeful tone, fitting for an annual development report that may be highlighting progress or success in educational or social programs.
 ```
 ![Image 2](images/2021TrustFundAnnualReports_p48_img2.png)
 
@@ -6654,17 +6695,13 @@ WBG Trust Fund Annual Report 2021
 **Image 1 OCR + Description:**
 ```
 **Image Description:**
-The image shows a colorful, stylized umbrella. The canopy of the umbrella is divided into multiple segments with a gradient color scheme including shades of green, purple, yellow, and blue. The umbrella handle is green and curved. 
-
-There is no text present in the image. The design is simple and likely serves as a logo or decorative element in the annual development report.
+The image is a simple illustration of an umbrella. The umbrella has multiple colored segments on its canopy, including green, yellow, and purple. The handle of the umbrella is green and curved in a traditional umbrella shape. There is no text present in the image. The overall style is cartoon-like and colorful.
 ```
 ![Image 1](images/2021TrustFundAnnualReports_p55_img1.png)
 
 **Image 2 OCR + Description:**
 ```
 **Image Description:**
-The image displays a stylized drawing of an umbrella. The umbrella's canopy is divided into multiple colored segments, including light green, dark green, yellow, and purple. The handle is curved and colored green. The design is simple and abstract, with no text included in the image. 
-
-This element likely serves as a symbol or logo within the annual development report.
+The image depicts a stylized umbrella with a curved handle. The canopy of the umbrella is divided into six sections with a color scheme that includes shades of green, blue, and some yellow. There is no text present in the image. The design appears simple and clean, possibly serving as a logo or icon.
 ```
 ![Image 2](images/2021TrustFundAnnualReports_p55_img2.png)
