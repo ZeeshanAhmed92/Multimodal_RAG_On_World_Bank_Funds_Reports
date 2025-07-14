@@ -16,3 +16,4 @@ chromadb==0.4.24
 numpy<2.0
 streamlit
 opencv-python-headless
+duckdb
