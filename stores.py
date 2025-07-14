@@ -3,30 +3,25 @@ import shutil
 from config import EMBEDDINGS
 from langchain.vectorstores import Chroma
 from langchain.storage import InMemoryStore
-from chromadb.config import Settings
-from chromadb import Client
 
 def load_vectorstore(vstore_dir):
-    settings = Settings(
-        chroma_db_impl="duckdb",
-        persist_directory=str(vstore_dir)
-    )
-    client = Client(settings)
-
-    try:
-        # Return Chroma using the custom client
+    if not any(vstore_dir.glob("*")):
         return Chroma(
-            client=client,
             collection_name="multi_modal_rag",
+            persist_directory=str(vstore_dir),
+            embedding_function=EMBEDDINGS
+        )
+    try:
+        return Chroma(
+            collection_name="multi_modal_rag",
+            persist_directory=str(vstore_dir),
             embedding_function=EMBEDDINGS
         )
     except Exception:
-        # Remove corrupt vectorstore and recreate
         shutil.rmtree(vstore_dir, ignore_errors=True)
-        client = Client(settings)  # re-instantiate after deletion
         return Chroma(
-            client=client,
             collection_name="multi_modal_rag",
+            persist_directory=str(vstore_dir),
             embedding_function=EMBEDDINGS
         )
 
