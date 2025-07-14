@@ -1,3 +1,7 @@
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 import os
 import streamlit as st
 from pathlib import Path
@@ -10,11 +14,6 @@ from stores import load_vectorstore, load_docstore, save_docstore, load_hashes, 
 from processing import parse_pdf_elements, get_file_hash, add_documents_to_retriever
 from chains import get_text_table_chain, get_image_chain, get_mm_rag_chain
 
-import sys
-import pysqlite3
-
-# Override system sqlite3 with newer pysqlite3
-sys.modules["sqlite3"] = pysqlite3
 
 
 # Ensure paths exist
