@@ -6,12 +6,25 @@ from langchain.storage import InMemoryStore
 
 def load_vectorstore(vstore_dir):
     if not any(vstore_dir.glob("*")):
-        return Chroma(collection_name="multi_modal_rag", persist_directory=str(vstore_dir), embedding_function=EMBEDDINGS)
+        return Chroma(
+            collection_name="multi_modal_rag",
+            persist_directory=str(vstore_dir),
+            embedding_function=EMBEDDINGS
+        )
     try:
-        return Chroma(collection_name="multi_modal_rag", persist_directory=str(vstore_dir), embedding_function=EMBEDDINGS)
+        return Chroma(
+            collection_name="multi_modal_rag",
+            persist_directory=str(vstore_dir),
+            embedding_function=EMBEDDINGS
+        )
     except Exception:
         shutil.rmtree(vstore_dir, ignore_errors=True)
-        return Chroma(collection_name="multi_modal_rag", persist_directory=str(vstore_dir), embedding_function=EMBEDDINGS)
+        return Chroma(
+            collection_name="multi_modal_rag",
+            persist_directory=str(vstore_dir),
+            embedding_function=EMBEDDINGS
+        )
+
 
 def load_docstore(docstore_path):
     if docstore_path.exists():
