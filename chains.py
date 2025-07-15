@@ -26,27 +26,38 @@ def get_image_chain():
     model = VisionModel(model="gpt-4.1-mini")
     return prompt | model | StrOutputParser()
 
+import imghdr
+from base64 import b64decode
+from langchain.docstore.document import Document
+
+def is_supported_image(b64_string):
+    try:
+        image_data = b64decode(b64_string)
+        image_type = imghdr.what(None, h=image_data)
+        return image_type in ["jpeg", "png", "gif", "webp"], image_type
+    except Exception:
+        return False, None
+
 def parse_docs(docs):
     b64, text = [], []
     for doc in docs:
         content = doc.page_content
-        try:
-            b64decode(content)
-            b64.append(content)
-        except Exception:
+        is_image, image_type = is_supported_image(content)
+        if is_image:
+            b64.append((content, image_type))  # Store tuple (b64, mime)
+        else:
             text.append(doc)
     return {"images": b64, "texts": text}
-
 
 def build_prompt(kwargs):
     docs_by_type = kwargs["context"]
     user_question = kwargs["question"]
     context_text = "".join([t.page_content for t in docs_by_type["texts"]])
 
-    prompt_instructions = """
+    prompt_instructions = f"""
 You are an expert AI assistant.
 
-Answer the user's question using only the information provided in the context below, which may include text, tables, and images summaries.
+Answer the user's question using only the information provided in the context below, which may include text, tables, and image summaries.
 
 - If the context contains enough information to answer the question clearly, provide a direct, accurate, and slightly elaborated response.
 - If the context lacks sufficient information or the question is too vague or ambiguous, **do not make assumptions**. Instead, ask a **clear, specific follow-up question** to help the user clarify their intent.
@@ -54,20 +65,22 @@ Answer the user's question using only the information provided in the context be
 Respond accordingly.
 
 Context:
-{context}
+{context_text}
 
 Question:
-{question}
-""".strip().format(context=context_text, question=user_question)
+{user_question}
+""".strip()
 
     prompt_content = [{"type": "text", "text": prompt_instructions}]
-    for image in docs_by_type["images"]:
+    for image_b64, image_type in docs_by_type["images"]:
+        mime = f"image/{'jpeg' if image_type == 'jpg' else image_type}"
         prompt_content.append({
             "type": "image_url", 
-            "image_url": {"url": f"data:image/jpeg;base64,{image}"}
+            "image_url": {"url": f"data:{mime};base64,{image_b64}"}
         })
 
     return ChatPromptTemplate.from_messages([HumanMessage(content=prompt_content)])
+
 
 
 def get_mm_rag_chain(retriever):
