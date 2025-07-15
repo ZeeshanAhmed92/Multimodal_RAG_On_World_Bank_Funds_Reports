@@ -1,3 +1,4 @@
+from base64 import b64decode
 from langchain.chat_models import ChatOpenAI
 from langchain_openai import ChatOpenAI as VisionModel
 from langchain_core.prompts import ChatPromptTemplate
@@ -26,29 +27,48 @@ def get_image_chain():
     return prompt | model | StrOutputParser()
 
 def parse_docs(docs):
-    from base64 import b64decode
     b64, text = [], []
     for doc in docs:
+        content = doc.page_content
         try:
-            b64decode(doc)
-            b64.append(doc)
+            b64decode(content)
+            b64.append(content)
         except Exception:
             text.append(doc)
     return {"images": b64, "texts": text}
+
 
 def build_prompt(kwargs):
     docs_by_type = kwargs["context"]
     user_question = kwargs["question"]
     context_text = "".join([t.page_content for t in docs_by_type["texts"]])
 
-    prompt_content = [{"type": "text", "text": f"""
-    Answer the question based only on the following context, which may include text, tables, and images.
-    Context: {context_text}
-    Question: {user_question}
-    """.strip()}]
+    prompt_instructions = """
+You are an expert AI assistant.
+
+Answer the user's question using only the information provided in the context below, which may include text, tables, and images summaries.
+
+- If the context contains enough information to answer the question clearly, provide a direct, accurate, and slightly elaborated response.
+- If the context lacks sufficient information or the question is too vague or ambiguous, **do not make assumptions**. Instead, ask a **clear, specific follow-up question** to help the user clarify their intent.
+
+Respond accordingly.
+
+Context:
+{context}
+
+Question:
+{question}
+""".strip().format(context=context_text, question=user_question)
+
+    prompt_content = [{"type": "text", "text": prompt_instructions}]
     for image in docs_by_type["images"]:
-        prompt_content.append({"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{image}"}})
+        prompt_content.append({
+            "type": "image_url", 
+            "image_url": {"url": f"data:image/jpeg;base64,{image}"}
+        })
+
     return ChatPromptTemplate.from_messages([HumanMessage(content=prompt_content)])
+
 
 def get_mm_rag_chain(retriever):
     return (
