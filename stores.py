@@ -1,5 +1,8 @@
 import json, pickle
 import shutil
+import os
+from datetime import datetime
+import uuid
 from config import EMBEDDINGS
 from langchain.vectorstores import Chroma
 from langchain.storage import InMemoryStore
@@ -45,3 +48,26 @@ def load_hashes(json_path):
 def save_hashes(hashes, json_path):
     with open(json_path, "w") as f:
         json.dump(hashes, f, indent=2)
+
+def save_chat_history(chat, path):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(chat, f, indent=2)
+
+def load_chat_history(path):
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
+
+def save_chat_history(chat, path):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(chat, f, indent=2)
+
+def load_chat_history(path):
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
+
+def generate_session_id():
+    return datetime.now().strftime("%Y%m%d_%H%M%S") + "_" + str(uuid.uuid4())[:8]

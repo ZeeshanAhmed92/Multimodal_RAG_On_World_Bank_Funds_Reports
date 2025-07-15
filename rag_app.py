@@ -9,8 +9,8 @@ import tempfile
 import base64
 import time
 
-from config import SOURCE_DIR, VSTORE_DIR, DOCSTORE_PATH, HASH_FILE
-from stores import load_vectorstore, load_docstore, save_docstore, load_hashes, save_hashes
+from config import SOURCE_DIR, VSTORE_DIR, DOCSTORE_PATH, HASH_FILE, CHAT_DATA_DIR
+from stores import load_vectorstore, load_docstore, save_docstore, load_hashes, save_hashes, load_chat_history, save_chat_history, generate_session_id
 from processing import parse_pdf_elements, get_file_hash, add_documents_to_retriever
 from chains import get_text_table_chain, get_image_chain, get_mm_rag_chain
 
@@ -32,6 +32,15 @@ file_hashes = load_hashes(HASH_FILE)
 text_table_chain = get_text_table_chain()
 image_chain = get_image_chain()
 rag_chain = get_mm_rag_chain(retriever)
+
+# Initialize or restore session
+if "chat_id" not in st.session_state:
+    st.session_state.chat_id = generate_session_id()
+
+current_chat_path = CHAT_DATA_DIR / f"{st.session_state.chat_id}.json"
+
+if "chat_history" not in st.session_state:
+    st.session_state.chat_history = load_chat_history(current_chat_path)
 
 # UI
 st.set_page_config("Multimodal RAG")
@@ -225,8 +234,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Button handler
-if st.button("💬 Get Answer"):
-    # Display custom spinner
+if question and st.button("💬 Get Answer"):
     with st.container():
         spinner_html = """
         <div class="custom-spinner">
@@ -238,16 +246,41 @@ if st.button("💬 Get Answer"):
         spinner_slot.markdown(spinner_html, unsafe_allow_html=True)
 
         try:
-            # Simulate RAG call
-            time.sleep(2)  # Replace with: response = rag_chain.invoke(question)
             response = rag_chain.invoke(question)
 
-            spinner_slot.empty()  # Clear spinner
-            st.markdown(f"<div class='custom-answer'>🧠 {response}</div>", unsafe_allow_html=True)
+            # Add to session + save to disk
+            st.session_state.chat_history.append({
+                "question": question,
+                "answer": response
+            })
+            save_chat_history(st.session_state.chat_history, current_chat_path)
 
+            spinner_slot.empty()
         except Exception as e:
             spinner_slot.empty()
             st.error(f"❌ Error: {str(e)}")
+
+
+if st.sidebar.button("🆕 Start New Chat"):
+    # Save current chat before resetting
+    if st.session_state.get("chat_history"):
+        old_path = CHAT_DATA_DIR / f"{st.session_state.chat_id}.json"
+        save_chat_history(st.session_state.chat_history, old_path)
+
+    # Reset session
+    st.session_state.chat_id = generate_session_id()
+    st.session_state.chat_history = []
+
+    st.rerun()
+
+
+for pair in reversed(st.session_state.chat_history):
+    st.markdown(f"""
+    <div class='custom-answer'>
+        <b>🧑‍💻 </b> {pair['question']}<br><br>
+        <b>🤖 </b> {pair['answer']}
+    </div>
+    """, unsafe_allow_html=True)
 
 
 # Save state
