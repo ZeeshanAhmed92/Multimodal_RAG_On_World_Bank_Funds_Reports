@@ -14,7 +14,7 @@ from stores import load_vectorstore, load_docstore, save_docstore, load_hashes, 
 from processing import parse_pdf_elements, get_file_hash, add_documents_to_retriever
 from chains import get_text_table_chain, get_image_chain, get_mm_rag_chain
 
-
+os.environ["LANGCHAIN_TELEMETRY_ENABLED"] = "false"
 
 # Ensure paths exist
 SOURCE_DIR.mkdir(parents=True, exist_ok=True)
@@ -84,9 +84,7 @@ st.sidebar.markdown(
 )
 
 # Hide default label
-uploaded_file = st.sidebar.file_uploader(label="", type="pdf")
-
-
+uploaded_file = st.sidebar.file_uploader("Upload PDF", type="pdf", label_visibility="collapsed")
 
 if uploaded_file:
     with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp:
@@ -153,8 +151,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Render the input box (no label)
-question = st.text_input("", placeholder="Type your question here...", key="question_input")
-
+question = st.text_input("Ask a question", placeholder="Type your question here...", key="question_input", label_visibility="collapsed")
 
 st.markdown("""
     <style>
@@ -254,6 +251,5 @@ if st.button("💬 Get Answer"):
 
 
 # Save state
-vectorstore.persist()
 save_docstore(docstore, DOCSTORE_PATH)
 save_hashes(file_hashes, HASH_FILE)
