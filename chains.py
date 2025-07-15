@@ -61,8 +61,7 @@ Question:
 """.strip().format(context=context_text, question=user_question)
 
     prompt_content = [{"type": "text", "text": prompt_instructions}]
-    max_images=2
-    for image in docs_by_type["images"][:max_images]:
+    for image in docs_by_type["images"]:
         prompt_content.append({
             "type": "image_url", 
             "image_url": {"url": f"data:image/jpeg;base64,{image}"}
