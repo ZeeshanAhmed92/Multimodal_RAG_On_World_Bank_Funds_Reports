@@ -3,6 +3,7 @@ import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 import os
+import streamlit.components.v1 as components
 import streamlit as st
 from pathlib import Path
 import tempfile
@@ -273,14 +274,95 @@ if st.sidebar.button("🆕 Start New Chat"):
 
     st.rerun()
 
+def get_image_base64(image_path):
+    with open(image_path, "rb") as img_file:
+        return base64.b64encode(img_file.read()).decode()
 
+user_icon = get_image_base64("boy.png")
+bot_icon = get_image_base64("assistant.png")
+
+# Build chat HTML dynamically
+chat_html = """
+<style>
+.scroll-box {
+    max-height: 500px;
+    overflow-y: auto;
+    padding: 12px;
+    border-radius: 12px;
+    background-color: rgba(255,255,255,0.7);
+    backdrop-filter: blur(4px);
+    border: 1px solid #ccc;
+    margin-top: 1rem;
+}
+
+.chat-message {
+    display: flex;
+    margin-bottom: 12px;
+    align-items: flex-start;
+}
+
+.chat-message.user {
+    justify-content: flex-end;
+}
+
+.chat-message.bot {
+    justify-content: flex-start;
+}
+
+.avatar {
+    width: 32px;
+    height: 32px;
+    margin: 0 8px;
+    border-radius: 50%;
+}
+
+.bubble {
+    padding: 12px 16px;
+    border-radius: 18px;
+    max-width: 70%;
+    font-size: 0.95rem;
+    line-height: 1.4;
+    word-wrap: break-word;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.bot .bubble {
+    background-color: white;
+    color: #000;
+    border-top-left-radius: 4px;
+}
+
+.user .bubble {
+    background-color: #d0e8ff;
+    color: #000840;
+    border-top-right-radius: 4px;
+}
+</style>
+
+<div class="scroll-box">
+"""
+
+# Build chat HTML
 for pair in reversed(st.session_state.chat_history):
-    st.markdown(f"""
-    <div class='custom-answer'>
-        <b>🧑‍💻 </b> {pair['question']}<br><br>
-        <b>🤖 </b> {pair['answer']}
+    # User message (right-aligned)
+    chat_html += f"""
+    <div class="chat-message user">
+        <div class="bubble">{pair['question']}</div>
+        <img class="avatar" src="data:image/png;base64,{user_icon}" />
     </div>
-    """, unsafe_allow_html=True)
+    """
+
+    # Bot message (left-aligned)
+    chat_html += f"""
+    <div class="chat-message bot">
+        <img class="avatar" src="data:image/png;base64,{bot_icon}" />
+        <div class="bubble">{pair['answer']}</div>
+    </div>
+    """
+
+# Render chat using components (this respects scrolling)
+components.html(chat_html + "</div>", height=520, scrolling=False)
+
 
 
 # Save state
