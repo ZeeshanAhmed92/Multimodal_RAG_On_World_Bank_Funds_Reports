@@ -364,7 +364,6 @@ for pair in reversed(st.session_state.chat_history):
 components.html(chat_html + "</div>", height=520, scrolling=False)
 
 
-
 # Save state
 save_docstore(docstore, DOCSTORE_PATH)
 save_hashes(file_hashes, HASH_FILE)
