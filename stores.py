@@ -60,7 +60,7 @@ def load_chat_history(path):
     return []
 
 
-def save_chat_history(history, path):
+def save_chat_history(history,  path):
     path.parent.mkdir(parents=True, exist_ok=True)  # Ensure path exists
     with open(path, "w", encoding="utf-8") as f:
         json.dump(history, f, indent=2, ensure_ascii=False)
